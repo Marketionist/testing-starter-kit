@@ -10,8 +10,7 @@ You can help by sending Pull Requests to add more tools and links to "how to use
 
 We love all the free things out there, but it would be good to keep it on topic. It's a bit of a grey line sometimes so this is a bit opinionated - please do not be offended if I do not accept your contribution.
 
-Table of Contents
-=================
+# Table of Contents
 
 * [Code Editors and IDE](#code-editors-ide)
 * [Automated Browser Testing (end-to-end)](#automated-browser-testing-e2e)
@@ -24,3 +23,10 @@ Table of Contents
 * [Continuous Integration (CI / CD)](#continuous-integration-ci-cd)
 * [Containerization tools](#containerization-tools)
 * [Bug Tracking and Task Management](#bug-tracking-task-management)
+
+## Code Editors and IDE
+
+* [VS Code](https://code.visualstudio.com/Download): **initial release date: April 29, 2015, written in: TypeScript, JavaScript, Cascading Style Sheets (CSS)**. Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets and code refactoring. Plugins and extensions for it can be written in JavaScript ([a lot of them](https://code.visualstudio.com/docs/editor/extension-gallery) are built and maintained by community).
+* [Sublime Text](https://www.sublimetext.com/3): **initial release date: January 18, 2008, written in: C++, Python**. Sublime Text is a cross-platform source code editor. It natively supports many programming and markup languages. Plugins and extensions for it can be written in Python ([tons of them](https://packagecontrol.io/browse/popular) can be installed and used).
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/download/): **initial release date: January 2001, written in: Java**. IntelliJ IDEA is a Java integrated development environment for developing computer software. It is developed by JetBrains and is available as an Apache 2 Licensed community edition and in a proprietary commercial edition. Both can be used for commercial development.
+* [CodePen](https://codepen.io/): **initial release date: 2012**. CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets, creatively named "pens", and test them.
