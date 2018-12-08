@@ -12,8 +12,8 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 # Table of Contents
 
-* [Code Editors and IDE](#code-editors-ide)
-* [Automated Browser Testing (end-to-end)](#automated-browser-testing-e2e)
+* [Code Editors and IDE](#code-editors-and-ide)
+* [Automated Browser Testing (end-to-end)](#automated-browser-testing-end-to-end)
 * [Unit Testing](#unit-testing)
 * [Load Testing](#load-testing)
 * [Security Testing](#security-testing)
@@ -30,3 +30,10 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Sublime Text](https://www.sublimetext.com/3): **initial release date: January 18, 2008, written in: C++, Python**. Sublime Text is a cross-platform source code editor. It natively supports many programming and markup languages. Plugins and extensions for it can be written in Python ([tons of them](https://packagecontrol.io/browse/popular) can be installed and used).
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/download/): **initial release date: January 2001, written in: Java**. IntelliJ IDEA is a Java integrated development environment for developing computer software. It is developed by JetBrains and is available as an Apache 2 Licensed community edition and in a proprietary commercial edition. Both can be used for commercial development.
 * [CodePen](https://codepen.io/): **initial release date: 2012**. CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets, creatively named "pens", and test them.
+
+## Automated Browser Testing (end-to-end)
+* [Selenium](): **initial release date: July 2012, written in: Java**.
+* [Protractor]():
+* [WebdriverIO]():
+* [Nightwatch]():
+* [RSpec](): **initial release date: August 2005, written in: Ruby**. RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications.
