@@ -32,8 +32,17 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [CodePen](https://codepen.io/): **initial release date: 2012**. CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets, creatively named "pens", and test them.
 
 ## Automated Browser Testing (end-to-end)
-* [Selenium](): **initial release date: July 2012, written in: Java**.
+* [Selenium](): **initial release date: July 2012, written in: Java**. Selenium automates browsers. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Selenium has the support of some of the largest browser vendors who have taken (or are taking) steps to make Selenium a native part of their browser. It is also the core technology in countless other browser automation tools, APIs and frameworks. Selenium has 2 incarnations:
+  * [Selenium IDE](https://www.seleniumhq.org/projects/ide/): is more simple and fast way to create automated testing scripts by clicking and recording your actions with record-and-playback Firefox add-on. It is mostly used to create simple scripts to aid in automation-aided exploratory testing. It requires some knowledge of HTML.
+  * [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver/): is more sophisticated and powerful tool to create robust, browser-based regression automation suites and tests. It requires some knowledge of programming languages (can be used (one of the following)[https://github.com/SeleniumHQ/selenium#documentation]: Java, JavaScript, Python, Ruby, C#).
 * [Protractor]():
 * [WebdriverIO]():
 * [Nightwatch]():
-* [RSpec](): **initial release date: August 2005, written in: Ruby**. RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications.
+* [RSpec](https://github.com/rspec/rspec#install): **initial release date: August 2005, written in: Ruby**. RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications. It utilizes easy-to-read syntax (`describe`, `it`). Here is a (free, once-weekly e-mail)[http://elementalselenium.com/] on how to use Selenium with RSpec (also see the (full archive of useful tips)[http://elementalselenium.com/tips]).
+
+## Unit Testing
+* [Jasmine]():
+* [Karma]():
+* [Jest]():
+* [Mocha]():
+* [Chai]():
