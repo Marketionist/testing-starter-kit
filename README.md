@@ -46,7 +46,7 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Jest]():
 * [Mocha]():
 * [Chai]():
-* [AVA](https://github.com/avajs/ava):
+* [AVA](https://github.com/avajs/ava): initial release date: **April 14, 2018**, written in: **JavaScript**. AVA is a test runner for Node.js with a concise API, detailed error output, embrace of new language features and process isolation that let you write tests more effectively.
 
 ## Load Testing
 * [Jmeter](https://jmeter.apache.org/download_jmeter.cgi): initial release date: **December 15, 1998**, written in: **Java**. Apache JMeter is a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications.
