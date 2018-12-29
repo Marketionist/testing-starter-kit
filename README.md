@@ -57,4 +57,18 @@ We love all the free things out there, but it would be good to keep it on topic.
   * [Introduction to Apache JMeter Performance Testing](https://loadfocus.com/blog/2013/07/09/apache-jmeter-performance-test-introduction/).
   * [How to do multiple user logins with different inputs in JMeter](https://stackoverflow.com/questions/19389131/how-to-do-multiple-user-logins-with-different-inputs-in-jmeter).
 
+* [Gatling]():
+
 * [Tsung]():
+
+## Security Testing
+
+  Useful links:
+  * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
+
+## API Testing
+* [Postman](https://www.getpostman.com/apps): initial release date: **February 19, 2016**, written in: **JavaScript**. Postman is a powerful API testing suite which has become a must-have tool for many developers.
+
+  Useful links:
+  * [The Basics of Using Postman for API Testing](https://www.youtube.com/watch?v=t5n07Ybz7yI).
+  * [Writing tests in Postman](http://blog.getpostman.com/2017/10/25/writing-tests-in-postman/).
