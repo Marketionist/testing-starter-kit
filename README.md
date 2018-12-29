@@ -57,10 +57,13 @@ We love all the free things out there, but it would be good to keep it on topic.
   * [Introduction to Apache JMeter Performance Testing](https://loadfocus.com/blog/2013/07/09/apache-jmeter-performance-test-introduction/).
   * [How to do multiple user logins with different inputs in JMeter](https://stackoverflow.com/questions/19389131/how-to-do-multiple-user-logins-with-different-inputs-in-jmeter).
 
+* [Gatling]():
+
 * [Tsung]():
 
 ## Security Testing
 
-## API Testing
+  Useful links:
+  * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
 
-## Linting and Code Quality
+## API Testing
