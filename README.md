@@ -72,3 +72,6 @@ We love all the free things out there, but it would be good to keep it on topic.
   Useful links:
   * [The Basics of Using Postman for API Testing](https://www.youtube.com/watch?v=t5n07Ybz7yI).
   * [Writing tests in Postman](http://blog.getpostman.com/2017/10/25/writing-tests-in-postman/).
+
+## Linting and Code Quality
+* [ESLint](https://eslint.org/): a pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
