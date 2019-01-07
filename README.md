@@ -75,3 +75,10 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 ## Linting and Code Quality
 * [ESLint](https://eslint.org/): a pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
+
+## Version control systems (VCS)
+* [Git](https://git-scm.com/downloads): initial release date: **April 7, 2005**, written in: **C, Perl, Tcl, Python**. Git is a version-control system for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for source-code management in software development, but it can be used to keep track of changes in any set of files.
+
+  Useful links
+  * [Removing sensitive data from a repository](https://help.github.com/articles/removing-sensitive-data-from-a-repository/).
+  * Markdown is a lightweight markup language used all over Github for documentation and instructions (for example `README.md` files). Here is a good [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
