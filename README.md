@@ -82,3 +82,8 @@ We love all the free things out there, but it would be good to keep it on topic.
   Useful links
   * [Removing sensitive data from a repository](https://help.github.com/articles/removing-sensitive-data-from-a-repository/).
   * Markdown is a lightweight markup language used all over Github for documentation and instructions (for example `README.md` files). Here is a good [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+## Continuous Integration (CI / CD)
+* [Jenkins]() — 
+* [Travis]() — 
+* [Gitlab]() — 
