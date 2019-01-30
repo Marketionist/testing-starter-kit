@@ -91,23 +91,14 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [cURL](https://curl.haxx.se/download.html): initial release date: **1997**, written in:**C**. The name stands for "Client URL". cURL is providing a library and command-line toolfor transferring data using various protocols. Installing and using cURL on Mac OS:
   * `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
   * `brew install curl`
-  * ```
-  curl http://localhost:3000
-  # -> Server will receive a GET HTTP request
-
-  curl -X POST http://localhost:3000
-  # -> Server will receive a POST HTTP request
-
-  curl -X PUT http://localhost:3000
-  # -> Server will receive a PUT HTTP request
-
-  curl -X DELETE http://localhost:3000
-  # -> Server will receive a DELETE HTTP request
-  ```
+  * `curl http://localhost:3000 # Server will receive a GET HTTP request`
+  * `curl -X POST http://localhost:3000 # Server will receive a POST HTTP request`
+  * `curl -X PUT http://localhost:3000 # Server will receive a PUT HTTP request`
+  * `curl -X DELETE http://localhost:3000 # Server will receive a DELETE HTTP request`
 
 * [Dredd](https://dredd.org/en/latest/installation.html): initial release date: **October 25, 2013**, written in: **JavaScript**. Dredd is a language-agnostic command-line tool for validating API description document against backend implementation of the API. Dredd reads your API description and step by step validates whether your API implementation replies with responses as they are described in the documentation.
   Useful links:
-  * [Teting your API with Dredd](https://medium.com/mop-developers/testing-your-api-with-dredd-c02e6ca151f2)
+  * [Testing your API with Dredd](https://medium.com/mop-developers/testing-your-api-with-dredd-c02e6ca151f2)
 
 ## Linting and Code Quality
 * [ESLint](https://eslint.org/): initial release date: **June 30, 2013**, written in: **JavaScript**. ESLint a pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
