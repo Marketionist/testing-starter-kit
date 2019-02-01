@@ -117,3 +117,13 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Travis](https://docs.travis-ci.com/user/tutorial/): initial release date: **November, 2010**, written in: **Ruby**. Travis is famous for: quick setup (just add `.travis.yml` configuration file, login with Github, tell Travis CI to test a project and then push to Github), live build views, pull request support, pre-installed database services, auto deployments on passing builds, clean VMs for every build, etc. With Travis CI testing your open source projects will always be free! It does not need to be installed on your servers / machines, it just needs to be enabled for your Github repository.
 
 * [Gitlab](https://about.gitlab.com/install/): initial release date: **October, 2011**, written in: **Ruby on Rails, Go, JavaScript**. GitLab is a web-based Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features. It usually has to be installed on your servers / machines.
+
+## Containerization tools
+* [Docker]():
+
+  Useful links:
+  * [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction)
+
+* [Kubernetes](https://kubernetes.io/docs/setup/): initial release date: **7 June 2014**, written in: **Go**. Kubernetes (k8s) is an open-source system for automating deployment, scaling, and management of containerized applications. A container orchestrator like Kubernetes usually does two things:
+  - Dynamically schedules container workloads within a cluster of computers. This is often referred to as distributed computing.
+  - Provides a standardized application definition file (kube yaml, docker compose, etc)
