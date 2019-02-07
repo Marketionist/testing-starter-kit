@@ -91,23 +91,14 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [cURL](https://curl.haxx.se/download.html): initial release date: **1997**, written in:**C**. The name stands for "Client URL". cURL is providing a library and command-line toolfor transferring data using various protocols. Installing and using cURL on Mac OS:
   * `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
   * `brew install curl`
-  * ```
-  curl http://localhost:3000
-  # -> Server will receive a GET HTTP request
-
-  curl -X POST http://localhost:3000
-  # -> Server will receive a POST HTTP request
-
-  curl -X PUT http://localhost:3000
-  # -> Server will receive a PUT HTTP request
-
-  curl -X DELETE http://localhost:3000
-  # -> Server will receive a DELETE HTTP request
-  ```
+  * `curl http://localhost:3000 # Server will receive a GET HTTP request`
+  * `curl -X POST http://localhost:3000 # Server will receive a POST HTTP request`
+  * `curl -X PUT http://localhost:3000 # Server will receive a PUT HTTP request`
+  * `curl -X DELETE http://localhost:3000 # Server will receive a DELETE HTTP request`
 
 * [Dredd](https://dredd.org/en/latest/installation.html): initial release date: **October 25, 2013**, written in: **JavaScript**. Dredd is a language-agnostic command-line tool for validating API description document against backend implementation of the API. Dredd reads your API description and step by step validates whether your API implementation replies with responses as they are described in the documentation.
   Useful links:
-  * [Teting your API with Dredd](https://medium.com/mop-developers/testing-your-api-with-dredd-c02e6ca151f2)
+  * [Testing your API with Dredd](https://medium.com/mop-developers/testing-your-api-with-dredd-c02e6ca151f2)
 
 ## Linting and Code Quality
 * [ESLint](https://eslint.org/): initial release date: **June 30, 2013**, written in: **JavaScript**. ESLint a pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
@@ -126,3 +117,13 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Travis](https://docs.travis-ci.com/user/tutorial/): initial release date: **November, 2010**, written in: **Ruby**. Travis is famous for: quick setup (just add `.travis.yml` configuration file, login with Github, tell Travis CI to test a project and then push to Github), live build views, pull request support, pre-installed database services, auto deployments on passing builds, clean VMs for every build, etc. With Travis CI testing your open source projects will always be free! It does not need to be installed on your servers / machines, it just needs to be enabled for your Github repository.
 
 * [Gitlab](https://about.gitlab.com/install/): initial release date: **October, 2011**, written in: **Ruby on Rails, Go, JavaScript**. GitLab is a web-based Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features. It usually has to be installed on your servers / machines.
+
+## Containerization tools
+* [Docker]():
+
+  Useful links:
+  * [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction)
+
+* [Kubernetes](https://kubernetes.io/docs/setup/): initial release date: **7 June 2014**, written in: **Go**. Kubernetes (k8s) is an open-source system for automating deployment, scaling, and management of containerized applications. A container orchestrator like Kubernetes usually does two things:
+  - Dynamically schedules container workloads within a cluster of computers. This is often referred to as distributed computing.
+  - Provides a standardized application definition file (kube yaml, docker compose, etc)
