@@ -132,3 +132,8 @@ We love all the free things out there, but it would be good to keep it on topic.
 
   Useful links:
   * [Kubernetes Production Patterns and Anti-Patterns](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
+
+## Bug Tracking and Task Management
+* [Redmine]():
+
+* [Mantis]():
