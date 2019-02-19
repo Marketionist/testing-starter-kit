@@ -18,11 +18,11 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Load Testing](#load-testing)
 * [Security Testing](#security-testing)
 * [API Testing](#api-testing)
-* [Linting and Code Quality](#linting-code-quality)
-* [Version control systems (VCS)](#version-control-systems)
-* [Continuous Integration (CI / CD)](#continuous-integration-ci-cd)
+* [Linting and Code Quality](#linting-and-code-quality)
+* [Version control systems (VCS)](#version-control-systems-vcs)
+* [Continuous Integration (CI / CD)](#continuous-integration-ci--cd)
 * [Containerization tools](#containerization-tools)
-* [Bug Tracking and Task Management](#bug-tracking-task-management)
+* [Bug Tracking and Task Management](#bug-tracking-and-task-management)
 
 ## Code Editors and IDE
 
