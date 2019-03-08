@@ -41,9 +41,12 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 * [Protractor]():
 
-* [WebdriverIO]():
+* [WebdriverIO](https://webdriver.io/docs/gettingstarted.html): initial release date: **May 17, 2012**, written in: **JavaScript**. WebdriverIO is a test automation framework that allows you to run tests based on the Webdriver protocol and Appium automation technology. It provides support for your favorite BDD/TDD test framework and will run your tests locally or in the cloud using Sauce Labs, BrowserStack or TestingBot.
 
   Useful links:
+  * [Building Scalable And Stable e2e Test Suites With WebdriverIO](https://www.youtube.com/watch?v=FHxXMeDh7Co).
+  * [A Tour Through the Newly Architected WebdriverIO Home](https://www.youtube.com/watch?v=1x8eUCBg_wk).
+  * [Front-end Testing with Kevin](https://www.youtube.com/user/medigerati/videos?flow=grid&sort=p&view=0) - a collection of WebdriverIO tutorial videos.
   * [A look at the browser.execute command](https://www.youtube.com/watch?v=GpXKmVL17Tc).
 
 * [Nightwatch]():
