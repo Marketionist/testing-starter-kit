@@ -41,7 +41,13 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 * [Protractor]():
 
-* [WebdriverIO]():
+* [WebdriverIO](https://webdriver.io/docs/gettingstarted.html): initial release date: **May 17, 2012**, written in: **JavaScript**. WebdriverIO is a test automation framework that allows you to run tests based on the Webdriver protocol and Appium automation technology. It provides support for your favorite BDD/TDD test framework and will run your tests locally or in the cloud using Sauce Labs, BrowserStack or TestingBot.
+
+  Useful links:
+  * [Building Scalable And Stable e2e Test Suites With WebdriverIO](https://www.youtube.com/watch?v=FHxXMeDh7Co).
+  * [A Tour Through the Newly Architected WebdriverIO Home](https://www.youtube.com/watch?v=1x8eUCBg_wk).
+  * [Front-end Testing with Kevin](https://www.youtube.com/user/medigerati/videos?flow=grid&sort=p&view=0) - a collection of WebdriverIO tutorial videos.
+  * [A look at the browser.execute command](https://www.youtube.com/watch?v=GpXKmVL17Tc).
 
 * [Nightwatch]():
 
@@ -122,9 +128,9 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Docker](https://hub.docker.com/search/?type=edition&offering=community):  initial release date: **December 21, 2013**, written in: **Go**. Docker is essentially, an isolated environment for your code to run in.
 
   Useful links:
-  * [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction)
-  * [A Better Way to Develop Node.js with Docker](https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093)
-  * [Docker 101 workshop - introduction to Docker and basic concepts](https://github.com/gravitational/workshop/blob/master/docker.md)
+  * [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction).
+  * [A Better Way to Develop Node.js with Docker](https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093).
+  * [Docker 101 workshop - introduction to Docker and basic concepts](https://github.com/gravitational/workshop/blob/master/docker.md).
 
 * [Kubernetes](https://kubernetes.io/docs/setup/): initial release date: **7 June, 2014**, written in: **Go**. Kubernetes (k8s) is an open-source system for automating deployment, scaling, and management of containerized applications. A container orchestrator like Kubernetes usually does two things:
   - Dynamically schedules container workloads within a cluster of computers. This is often referred to as distributed computing.
