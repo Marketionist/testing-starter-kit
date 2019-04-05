@@ -143,3 +143,12 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Redmine](http://www.redmine.org/projects/redmine/wiki/Download): initial release date: **June 25, 2006**, written in: **Ruby**. Redmine is a free and open source, web-based project management and issue tracking tool. It allows users to manage multiple projects and associated subprojects. It features per project wikis and forums, time tracking, and flexible, role-based access control.
 
 * [Mantis](https://www.mantisbt.org/download.php): initial release date: **Nov 6, 2008**, written in: **PHP**. Mantis Bug Tracker is a free and open source, web-based bug tracking system. The most common use of MantisBT is to track software defects. However, MantisBT is often configured by users to serve as a more generic issue tracking system and project management tool.
+
+## Node.js
+Useful links:
+* [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) - nice 90 minute video on starting with Node.js.
+* [Cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/node.js) on main Node.js functions and processes.
+* [Practical Node.js](https://github.com/azat-co/practicalnode) open source book.
+* [The Node.js Handbook](https://nodehandbook.com/) free book (can be downloaded in PDF / ePub / Mobi).
+* [How to use Docker for Node.js development](https://cravencode.com/post/docker/nodejs-local-development/).
+* [Differences between iterating over an array with the 4 primary looping constructs in JavaScript](http://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript.html).
