@@ -145,10 +145,19 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Mantis](https://www.mantisbt.org/download.php): initial release date: **Nov 6, 2008**, written in: **PHP**. Mantis Bug Tracker is a free and open source, web-based bug tracking system. The most common use of MantisBT is to track software defects. However, MantisBT is often configured by users to serve as a more generic issue tracking system and project management tool.
 
 ## Node.js
-Useful links:
-* [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) - nice 90 minute video on starting with Node.js.
-* [Cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/node.js) on main Node.js functions and processes.
-* [Practical Node.js](https://github.com/azat-co/practicalnode) open source book.
-* [The Node.js Handbook](https://nodehandbook.com/) free book (can be downloaded in PDF / ePub / Mobi).
-* [How to use Docker for Node.js development](https://cravencode.com/post/docker/nodejs-local-development/).
-* [Differences between iterating over an array with the 4 primary looping constructs in JavaScript](http://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript.html).
+  Useful links:
+  * [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) - nice 90 minute video on starting with Node.js.
+  * [Cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/node.js) on main Node.js functions and processes.
+  * [Practical Node.js](https://github.com/azat-co/practicalnode) open source book.
+  * [The Node.js Handbook](https://nodehandbook.com/) free book (can be downloaded in PDF / ePub / Mobi).
+  * [How to use Docker for Node.js development](https://cravencode.com/post/docker/nodejs-local-development/).
+  * [Differences between iterating over an array with the 4 primary looping constructs in JavaScript](http://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript.html).
+  * Very expressive videos about Functional Programming in JavaScript by Mattias Petter Johansson [Twitter](https://twitter.com/mpjme) | [Youtube](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q):
+    - Part 1: [Higher-order functions](https://www.youtube.com/watch?v=BMUiFMZr7vk)
+    - Part 2: [Map](https://www.youtube.com/watch?v=bCqtb-Z5YGQ)
+    - Part 3: [Reduce Basics](https://www.youtube.com/watch?v=Wl98eZpkp-c)
+    - Part 4: [Reduce Advanced](https://www.youtube.com/watch?v=1DMolJ2FrNY)
+    - Part 5: [Closures](https://www.youtube.com/watch?v=CQqwU2Ixu-U)
+    - Part 6: [Currying](https://www.youtube.com/watch?v=iZLP4qOwY8I)
+    - Part 7: [Recursion](https://www.youtube.com/watch?v=k7-N8R0-KY4)
+    - Part 8: [Promises](https://www.youtube.com/watch?v=2d7s3spWAzo)
