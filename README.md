@@ -78,9 +78,9 @@ We love all the free things out there, but it would be good to keep it on topic.
   * [Introduction to Apache JMeter Performance Testing](https://loadfocus.com/blog/2013/07/09/apache-jmeter-performance-test-introduction/).
   * [How to do multiple user logins with different inputs in JMeter](https://stackoverflow.com/questions/19389131/how-to-do-multiple-user-logins-with-different-inputs-in-jmeter).
 
-* [Gatling]():
-
 * [Tsung]():
+
+* [Gatling]():
 
 ## Security Testing
 
@@ -146,12 +146,14 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 ## Node.js
   Useful links:
+  * [Node.js & JavaScript Testing Best Practices](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347).
   * [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) - nice 90 minute video on starting with Node.js.
   * [Cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/node.js) on main Node.js functions and processes.
   * [Practical Node.js](https://github.com/azat-co/practicalnode) open source book.
   * [The Node.js Handbook](https://nodehandbook.com/) free book (can be downloaded in PDF / ePub / Mobi).
   * [How to use Docker for Node.js development](https://cravencode.com/post/docker/nodejs-local-development/).
   * [Differences between iterating over an array with the 4 primary looping constructs in JavaScript](http://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript.html).
+  * [The Pitfalls of Async/Await in Array Loops](https://medium.com/dailyjs/the-pitfalls-of-async-await-in-array-loops-cf9cf713bfeb).
   * Very expressive videos about Functional Programming in JavaScript by Mattias Petter Johansson [Twitter](https://twitter.com/mpjme) | [Youtube](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q):
     - Part 1: [Higher-order functions](https://www.youtube.com/watch?v=BMUiFMZr7vk)
     - Part 2: [Map](https://www.youtube.com/watch?v=bCqtb-Z5YGQ)
