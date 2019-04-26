@@ -88,7 +88,11 @@ We love all the free things out there, but it would be good to keep it on topic.
   * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
 
 ## API Testing
-* [Postman](https://www.getpostman.com/apps): initial release date: **February 19, 2016**, written in: **JavaScript**. Postman is a powerful API testing suite which has become a must-have tool for many developers.
+* [Postman](https://www.getpostman.com/apps): initial release date: **February 19, 2016**, written in: **JavaScript**. Postman is a powerful API testing suite which has become a must-have tool for many developers. It has the ability to make various types of HTTP requests, i.e. GET, POST, PUT, PATCH. It is available for Windows, macOS, and Linux. To query an API endpoint, you’ll need to do the following steps:
+  1. Enter the URL that you want to query in the URL bar in the top section.
+  2. Select the HTTP method on the left of the URL bar to send the request.
+  3. Click on the "Send" button.
+Postman will then send the request to the application, retrieve any responses and display it in the lower window.
 
   Useful links:
   * [The Basics of Using Postman for API Testing](https://www.youtube.com/watch?v=t5n07Ybz7yI).
