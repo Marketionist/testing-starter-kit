@@ -23,6 +23,7 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Continuous Integration (CI / CD)](#continuous-integration-ci--cd)
 * [Containerization tools](#containerization-tools)
 * [Bug Tracking and Task Management](#bug-tracking-and-task-management)
+* [Node.js](#nodejs)
 
 ## Code Editors and IDE
 
@@ -74,7 +75,7 @@ We love all the free things out there, but it would be good to keep it on topic.
 
   Useful links:
   * [JMeter Tutorials - set of short YouTube videos](https://www.youtube.com/user/JMeterTutorial/videos?view=0&sort=da&flow=grid).
-  * Load Testing with JMeter: [Part 1 - Getting Started](https://lincolnloop.com/blog/2011/sep/21/load-testing-jmeter-part-1-getting-started/), [Part 2 - Headless Testing and Jenkins Integration](https://lincolnloop.com/blog/2011/oct/12/load-testing-jmeter-part-2-headless-testing-and-je/), [Part 3 - Replaying Apache Logs](https://lincolnloop.com/blog/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/).
+  * Load Testing with JMeter: Part 1 - [Getting Started](https://lincolnloop.com/blog/2011/sep/21/load-testing-jmeter-part-1-getting-started/), Part 2 - [Headless Testing and Jenkins Integration](https://lincolnloop.com/blog/2011/oct/12/load-testing-jmeter-part-2-headless-testing-and-je/), Part 3 - [Replaying Apache Logs](https://lincolnloop.com/blog/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/).
   * [Introduction to Apache JMeter Performance Testing](https://loadfocus.com/blog/2013/07/09/apache-jmeter-performance-test-introduction/).
   * [How to do multiple user logins with different inputs in JMeter](https://stackoverflow.com/questions/19389131/how-to-do-multiple-user-logins-with-different-inputs-in-jmeter).
 
@@ -89,10 +90,10 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 ## API Testing
 * [Postman](https://www.getpostman.com/apps): initial release date: **February 19, 2016**, written in: **JavaScript**. Postman is a powerful API testing suite which has become a must-have tool for many developers. It has the ability to make various types of HTTP requests, i.e. GET, POST, PUT, PATCH. It is available for Windows, macOS, and Linux. To query an API endpoint, you’ll need to do the following steps:
+
   1. Enter the URL that you want to query in the URL bar in the top section.
   2. Select the HTTP method on the left of the URL bar to send the request.
-  3. Click on the "Send" button.
-Postman will then send the request to the application, retrieve any responses and display it in the lower window.
+  3. Click on the "Send" button - Postman will then send the request to the application, retrieve any responses and display it in the lower window.
 
   Useful links:
   * [The Basics of Using Postman for API Testing](https://www.youtube.com/watch?v=t5n07Ybz7yI).
