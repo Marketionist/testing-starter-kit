@@ -83,6 +83,8 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 * [Gatling]():
 
+* [Artillery](https://artillery.io/docs/getting-started/): initial release date: **November 17, 2015**, written in: **JavaScript**. Artillery is a modern, powerful, easy-to-use load-testing toolkit. Artillery has a strong focus on developer happiness & ease of use, and a batteries-included philosophy. Our goal is to help developers build faster, more resilient and more scalable applications.
+
 ## Security Testing
 
   Useful links:
@@ -154,8 +156,8 @@ We love all the free things out there, but it would be good to keep it on topic.
   * [Node.js & JavaScript Testing Best Practices](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347).
   * [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) - nice 90 minute video on starting with Node.js.
   * [Cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/node.js) on main Node.js functions and processes.
-  * [Practical Node.js](https://github.com/azat-co/practicalnode) open source book.
-  * [The Node.js Handbook](https://nodehandbook.com/) free book (can be downloaded in PDF / ePub / Mobi).
+  * [Practical Node.js](https://github.com/azat-co/practicalnode) - open source book.
+  * [The Node.js Handbook](https://nodehandbook.com/) - free book (can be downloaded in PDF / ePub / Mobi).
   * [How to use Docker for Node.js development](https://cravencode.com/post/docker/nodejs-local-development/).
   * [Differences between iterating over an array with the 4 primary looping constructs in JavaScript](http://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript.html).
   * [The Pitfalls of Async/Await in Array Loops](https://medium.com/dailyjs/the-pitfalls-of-async-await-in-array-loops-cf9cf713bfeb).
