@@ -52,6 +52,11 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 * [Nightwatch]():
 
+* [Puppeteer](https://pptr.dev/): initial release date: **August 16, 2017**, written in: **JavaScript**. Puppeteer is a Node.js library maintained by Chrome's development team from Google. Puppeteer provides a high-level API to control Chrome or Chromium (by default headless, but can be [configured to run full non-headless](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md#puppeteerlaunchoptions) Chrome or Chromium) or interact with the DevTools protocol.
+
+  Useful links:
+  * [Web Scraping with a Headless Browser: A Puppeteer Tutorial](https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial).
+
 * [RSpec](https://github.com/rspec/rspec#install): initial release date: **August 2005**, written in: **Ruby**. RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications. It utilizes easy-to-read syntax (`describe`, `it`). Here is a (free, once-weekly e-mail)[http://elementalselenium.com/] on how to use Selenium with RSpec (also see the (full archive of useful tips)[http://elementalselenium.com/tips]).
 
 ## Unit Testing
@@ -71,7 +76,7 @@ We love all the free things out there, but it would be good to keep it on topic.
   * [Node.js & JavaScript Unit Testing Best Practices](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347).
 
 ## Load Testing
-* [Jmeter](https://jmeter.apache.org/download_jmeter.cgi): initial release date: **December 15, 1998**, written in: **Java**. Apache JMeter is a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications.
+* [JMeter](https://jmeter.apache.org/download_jmeter.cgi): initial release date: **December 15, 1998**, written in: **Java**. Apache JMeter is a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications.
 
   Useful links:
   * [JMeter Tutorials - set of short YouTube videos](https://www.youtube.com/user/JMeterTutorial/videos?view=0&sort=da&flow=grid).
@@ -101,7 +106,7 @@ We love all the free things out there, but it would be good to keep it on topic.
   * [The Basics of Using Postman for API Testing](https://www.youtube.com/watch?v=t5n07Ybz7yI).
   * [Writing tests in Postman](http://blog.getpostman.com/2017/10/25/writing-tests-in-postman/).
 
-* [cURL](https://curl.haxx.se/download.html): initial release date: **1997**, written in:**C**. The name stands for "Client URL". cURL is providing a library and command-line toolfor transferring data using various protocols. Installing and using cURL on Mac OS:
+* [cURL](https://curl.haxx.se/download.html): initial release date: **1997**, written in: **C**. The name stands for "Client URL". cURL is providing a library and command-line toolfor transferring data using various protocols. Installing and using cURL on Mac OS:
   * `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
   * `brew install curl`
   * `curl http://localhost:3000 # Server will receive a GET HTTP request`
