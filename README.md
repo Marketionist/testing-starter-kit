@@ -166,12 +166,24 @@ We love all the free things out there, but it would be good to keep it on topic.
   * [How to use Docker for Node.js development](https://cravencode.com/post/docker/nodejs-local-development/).
   * [Differences between iterating over an array with the 4 primary looping constructs in JavaScript](http://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript.html).
   * [The Pitfalls of Async/Await in Array Loops](https://medium.com/dailyjs/the-pitfalls-of-async-await-in-array-loops-cf9cf713bfeb).
+  * [Guide to JSON.stringify in JavaScript](http://thecodebarbarian.com/the-80-20-guide-to-json-stringify-in-javascript.html).
   * Very expressive videos about Functional Programming in JavaScript by Mattias Petter Johansson [Twitter](https://twitter.com/mpjme) | [Youtube](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q):
-    - Part 1: [Higher-order functions](https://www.youtube.com/watch?v=BMUiFMZr7vk)
-    - Part 2: [Map](https://www.youtube.com/watch?v=bCqtb-Z5YGQ)
-    - Part 3: [Reduce Basics](https://www.youtube.com/watch?v=Wl98eZpkp-c)
-    - Part 4: [Reduce Advanced](https://www.youtube.com/watch?v=1DMolJ2FrNY)
-    - Part 5: [Closures](https://www.youtube.com/watch?v=CQqwU2Ixu-U)
-    - Part 6: [Currying](https://www.youtube.com/watch?v=iZLP4qOwY8I)
-    - Part 7: [Recursion](https://www.youtube.com/watch?v=k7-N8R0-KY4)
-    - Part 8: [Promises](https://www.youtube.com/watch?v=2d7s3spWAzo)
+    - Part 1: [Higher-order functions](https://www.youtube.com/watch?v=BMUiFMZr7vk);
+    - Part 2: [Map](https://www.youtube.com/watch?v=bCqtb-Z5YGQ);
+    - Part 3: [Reduce Basics](https://www.youtube.com/watch?v=Wl98eZpkp-c);
+    - Part 4: [Reduce Advanced](https://www.youtube.com/watch?v=1DMolJ2FrNY);
+    - Part 5: [Closures](https://www.youtube.com/watch?v=CQqwU2Ixu-U);
+    - Part 6: [Currying](https://www.youtube.com/watch?v=iZLP4qOwY8I);
+    - Part 7: [Recursion](https://www.youtube.com/watch?v=k7-N8R0-KY4);
+    - Part 8: [Promises](https://www.youtube.com/watch?v=2d7s3spWAzo);
+    - [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA);
+    - [Factory Functions in JavaScript](https://www.youtube.com/watch?v=ImwrezYhw4w).
+  * [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs).
+  * [How to build a CLI with Node.js](https://www.twilio.com/blog/how-to-build-a-cli-with-node-js).
+  * How to access Google Spreadsheets with Node.js: [article 1](https://blog.stephsmith.io/tutorial-google-sheets-api-node-js/), [article 2](https://cmichel.io/how-to-access-google-spreadsheet-with-node/).
+  * [A Guide to Node.js logging](https://www.twilio.com/blog/guide-node-js-logging).
+  * [Understanding npm link](https://fhinkel.rocks/2018/10/25/Understanding-npm-link/).
+
+# Thanks
+If this list of free open source software testing tools and links was helpful for you, please give it a **★ Star**
+on [github](https://github.com/Marketionist/testing-starter-kit).
