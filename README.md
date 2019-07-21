@@ -84,7 +84,10 @@ We love all the free things out there, but it would be good to keep it on topic.
   * [Introduction to Apache JMeter Performance Testing](https://loadfocus.com/blog/2013/07/09/apache-jmeter-performance-test-introduction/).
   * [How to do multiple user logins with different inputs in JMeter](https://stackoverflow.com/questions/19389131/how-to-do-multiple-user-logins-with-different-inputs-in-jmeter).
 
-* [Tsung]():
+* [Tsung](http://tsung.erlang-projects.org/user_manual/installation.html): initial release date: **May 29, 2006**, written in: **Erlang**. Tsung is an open-source multi-protocol distributed load testing tool. It can currently stress test HTTP, WebDAV, LDAP, MySQL, PostgreSQL, SOAP and XMPP servers. Tsung can simulate hundreds of simultaneous users on a single system. It can also function in a clustered environment.
+
+  Useful links:
+  * [Building a Load Test with Tsung for a Login and Post Session with dynamic url-encoded variables](https://www.innoq.com/en/blog/building-a-load-test-with-tsung/).
 
 * [Gatling]():
 
