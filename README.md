@@ -56,6 +56,9 @@ We love all the free things out there, but it would be good to keep it on topic.
 
   Useful links:
   * [Web Scraping with a Headless Browser: A Puppeteer Tutorial](https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial).
+  * [Getting to Know Puppeteer Using Practical Examples](https://nitayneeman.com/posts/getting-to-know-puppeteer-using-practical-examples/).
+  * [Puppeteer keyboard keys to use in `keyboard.type`](https://github.com/GoogleChrome/puppeteer/blob/master/lib/USKeyboardLayout.js).
+  * [Puppeteer Snippets extension for VS Code](https://marketplace.visualstudio.com/items?itemName=nitayneeman.puppeteer-snippets).
 
 * [RSpec](https://github.com/rspec/rspec#install): initial release date: **August 2005**, written in: **Ruby**. RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications. It utilizes easy-to-read syntax (`describe`, `it`). Here is a (free, once-weekly e-mail)[http://elementalselenium.com/] on how to use Selenium with RSpec (also see the (full archive of useful tips)[http://elementalselenium.com/tips]).
 
