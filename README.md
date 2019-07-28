@@ -75,8 +75,8 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 * [AVA](https://github.com/avajs/ava): initial release date: **April 14, 2018**, written in: **JavaScript**. AVA is a test runner for Node.js with a concise API, detailed error output, embrace of new language features and process isolation that let you write tests more effectively.
 
-  Useful links:
-  * [Node.js & JavaScript Unit Testing Best Practices](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347).
+Useful links:
+* [Node.js & JavaScript Unit Testing Best Practices](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347).
 
 ## Load Testing
 * [JMeter](https://jmeter.apache.org/download_jmeter.cgi): initial release date: **December 15, 1998**, written in: **Java**. Apache JMeter is a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications.
@@ -121,6 +121,7 @@ We love all the free things out there, but it would be good to keep it on topic.
   * `curl -X DELETE http://localhost:3000 # Server will receive a DELETE HTTP request`
 
 * [Dredd](https://dredd.org/en/latest/installation.html): initial release date: **October 25, 2013**, written in: **JavaScript**. Dredd is a language-agnostic command-line tool for validating API description document against backend implementation of the API. Dredd reads your API description and step by step validates whether your API implementation replies with responses as they are described in the documentation.
+
   Useful links:
   * [Testing your API with Dredd](https://medium.com/mop-developers/testing-your-api-with-dredd-c02e6ca151f2)
 
@@ -189,6 +190,7 @@ We love all the free things out there, but it would be good to keep it on topic.
   * How to access Google Spreadsheets with Node.js: [article 1](https://blog.stephsmith.io/tutorial-google-sheets-api-node-js/), [article 2](https://cmichel.io/how-to-access-google-spreadsheet-with-node/).
   * [A Guide to Node.js logging](https://www.twilio.com/blog/guide-node-js-logging).
   * [Understanding npm link](https://fhinkel.rocks/2018/10/25/Understanding-npm-link/).
+  * [Types of test unreliability - informative 30 min video with code examples by Rich Trott](https://www.youtube.com/watch?v=TKDMya4bznw)
 
 # Thanks
 If this list of free open source software testing tools and links was helpful for you, please give it a **★ Star**
