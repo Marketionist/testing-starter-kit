@@ -12,8 +12,18 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 # Table of Contents
 
-* [Code Editors and IDE](#code-editors-and-ide)
-* [Automated Browser Testing (end-to-end)](#automated-browser-testing-end-to-end)
+* [Code Editors and IDE](#code-editors-and-ide):
+  - VS Code
+  - Sublime Text
+  - IntelliJ IDEA
+  - CodePen
+* [Automated Browser Testing (end-to-end)](#automated-browser-testing-end-to-end):
+  - Selenium
+  - Protractor
+  - WebdriverIO
+  - Nightwatch
+  - Puppeteer
+  - RSpec
 * [Unit Testing](#unit-testing)
 * [Load Testing](#load-testing)
 * [Security Testing](#security-testing)
@@ -24,6 +34,7 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Containerization tools](#containerization-tools)
 * [Bug Tracking and Task Management](#bug-tracking-and-task-management)
 * [Node.js](#nodejs)
+* [Leadership in QA](#leadership-in-qa)
 
 ## Code Editors and IDE
 
@@ -190,7 +201,7 @@ Useful links:
   * How to access Google Spreadsheets with Node.js: [article 1](https://blog.stephsmith.io/tutorial-google-sheets-api-node-js/), [article 2](https://cmichel.io/how-to-access-google-spreadsheet-with-node/).
   * [A Guide to Node.js logging](https://www.twilio.com/blog/guide-node-js-logging).
   * [Understanding npm link](https://fhinkel.rocks/2018/10/25/Understanding-npm-link/).
-  * [Types of test unreliability - informative 30 min video with code examples by Rich Trott](https://www.youtube.com/watch?v=TKDMya4bznw)
+  * [Types of test unreliability](https://www.youtube.com/watch?v=TKDMya4bznw) - informative 30 min video with code examples by Rich Trott.
 
 # Thanks
 If this list of free open source software testing tools and links was helpful for you, please give it a **★ Star**
