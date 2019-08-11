@@ -41,11 +41,20 @@ We love all the free things out there, but it would be good to keep it on topic.
   - cURL
   - Postman
   - Dredd
-* [Linting and Code Quality](#linting-and-code-quality)
-* [Version control systems (VCS)](#version-control-systems-vcs)
-* [Continuous Integration (CI / CD)](#continuous-integration-ci--cd)
-* [Containerization tools](#containerization-tools)
-* [Bug Tracking and Task Management](#bug-tracking-and-task-management)
+* [Linting and Code Quality](#linting-and-code-quality):
+  - ESLint
+* [Version control systems (VCS)](#version-control-systems-vcs):
+  - Git
+* [Continuous Integration (CI / CD)](#continuous-integration-ci--cd):
+  - Jenkins
+  - Travis
+  - Gitlab
+* [Containerization tools](#containerization-tools):
+  - Docker
+  - Kubernetes
+* [Bug Tracking and Task Management](#bug-tracking-and-task-management):
+  - Redmine
+  - Mantis
 * [Node.js](#nodejs)
 * [Leadership in QA](#leadership-in-qa)
 
@@ -121,7 +130,6 @@ Useful links:
 * [Artillery](https://artillery.io/docs/getting-started/): initial release date: **November 17, 2015**, written in: **JavaScript**. Artillery is a modern, powerful, easy-to-use load-testing toolkit. Artillery has a strong focus on developer happiness & ease of use, and a batteries-included philosophy. Our goal is to help developers build faster, more resilient and more scalable applications.
 
 ## Security Testing
-
   Useful links:
   * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
 
@@ -174,6 +182,7 @@ Useful links:
   * [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction).
   * [A Better Way to Develop Node.js with Docker](https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093).
   * [Docker 101 workshop - introduction to Docker and basic concepts](https://github.com/gravitational/workshop/blob/master/docker.md).
+  * [Top 4 Tactics To Keep Node.js Rockin’ in Docker](https://blog.docker.com/2019/07/keep-nodejs-rockin-in-docker/).
 
 * [Kubernetes](https://kubernetes.io/docs/setup/): initial release date: **7 June, 2014**, written in: **Go**. Kubernetes (k8s) is an open-source system for automating deployment, scaling, and management of containerized applications. A container orchestrator like Kubernetes usually does two things:
   - Dynamically schedules container workloads within a cluster of computers. This is often referred to as distributed computing.
@@ -186,6 +195,9 @@ Useful links:
 * [Redmine](http://www.redmine.org/projects/redmine/wiki/Download): initial release date: **June 25, 2006**, written in: **Ruby**. Redmine is a free and open source, web-based project management and issue tracking tool. It allows users to manage multiple projects and associated subprojects. It features per project wikis and forums, time tracking, and flexible, role-based access control.
 
 * [Mantis](https://www.mantisbt.org/download.php): initial release date: **Nov 6, 2008**, written in: **PHP**. Mantis Bug Tracker is a free and open source, web-based bug tracking system. The most common use of MantisBT is to track software defects. However, MantisBT is often configured by users to serve as a more generic issue tracking system and project management tool.
+
+Useful links:
+* [Scrum, Kanban, and ScrumBan: What’s the Difference?](https://blog.gurock.com/scrum-kanban-scrumban/).
 
 ## Node.js
   Useful links:
