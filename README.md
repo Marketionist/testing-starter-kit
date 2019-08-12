@@ -12,18 +12,51 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 # Table of Contents
 
-* [Code Editors and IDE](#code-editors-and-ide)
-* [Automated Browser Testing (end-to-end)](#automated-browser-testing-end-to-end)
-* [Unit Testing](#unit-testing)
-* [Load Testing](#load-testing)
+* [Code Editors and IDE](#code-editors-and-ide):
+  - VS Code
+  - Sublime Text
+  - IntelliJ IDEA
+  - CodePen
+* [Automated Browser Testing (end-to-end)](#automated-browser-testing-end-to-end):
+  - Selenium
+  - Protractor
+  - WebdriverIO
+  - Nightwatch
+  - Puppeteer
+  - RSpec
+* [Unit Testing](#unit-testing):
+  - Mocha
+  - Chai
+  - Jasmine
+  - Karma
+  - Jest
+  - AVA
+* [Load Testing](#load-testing):
+  - JMeter
+  - Tsung
+  - Gatling
+  - Artillery
 * [Security Testing](#security-testing)
-* [API Testing](#api-testing)
-* [Linting and Code Quality](#linting-and-code-quality)
-* [Version control systems (VCS)](#version-control-systems-vcs)
-* [Continuous Integration (CI / CD)](#continuous-integration-ci--cd)
-* [Containerization tools](#containerization-tools)
-* [Bug Tracking and Task Management](#bug-tracking-and-task-management)
+* [API Testing](#api-testing):
+  - cURL
+  - Postman
+  - Dredd
+* [Linting and Code Quality](#linting-and-code-quality):
+  - ESLint
+* [Version control systems (VCS)](#version-control-systems-vcs):
+  - Git
+* [Continuous Integration (CI / CD)](#continuous-integration-ci--cd):
+  - Jenkins
+  - Travis
+  - Gitlab
+* [Containerization tools](#containerization-tools):
+  - Docker
+  - Kubernetes
+* [Bug Tracking and Task Management](#bug-tracking-and-task-management):
+  - Redmine
+  - Mantis
 * [Node.js](#nodejs)
+* [Leadership in QA](#leadership-in-qa)
 
 ## Code Editors and IDE
 
@@ -63,15 +96,15 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [RSpec](https://github.com/rspec/rspec#install): initial release date: **August 2005**, written in: **Ruby**. RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications. It utilizes easy-to-read syntax (`describe`, `it`). Here is a [free, once-weekly e-mail](http://elementalselenium.com/) on how to use Selenium with RSpec (also see the [full archive of useful tips](http://elementalselenium.com/tips)).
 
 ## Unit Testing
+* [Mocha]():
+
+* [Chai]():
+
 * [Jasmine](https://github.com/jasmine/jasmine#installation): initial release date: **September 14, 2010**, written in: **JavaScript**. Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests with easy-to-read syntax (`describe`, `it`). It has built in assertion library and can be used as a testing framework both for unit tests and end-to-end tests.
 
 * [Karma](https://www.npmjs.com/package/karma): initial release date: **March 11, 2012**, written in: **JavaScript**. A simple tool that allows you to execute JavaScript code in multiple real browsers. Karma is not a testing framework, nor an assertion library. Karma just launches an HTTP server, and generates the test runner HTML file you probably already know from your favourite testing framework. So for testing purposes you can use pretty much anything you like. There are already plugins for most of the common testing frameworks: Jasmine, Mocha and [many others](https://www.npmjs.com/search?q=keywords:karma-adapter).
 
 * [Jest]():
-
-* [Mocha]():
-
-* [Chai]():
 
 * [AVA](https://github.com/avajs/ava): initial release date: **April 14, 2018**, written in: **JavaScript**. AVA is a test runner for Node.js with a concise API, detailed error output, embrace of new language features and process isolation that let you write tests more effectively.
 
@@ -97,11 +130,18 @@ Useful links:
 * [Artillery](https://artillery.io/docs/getting-started/): initial release date: **November 17, 2015**, written in: **JavaScript**. Artillery is a modern, powerful, easy-to-use load-testing toolkit. Artillery has a strong focus on developer happiness & ease of use, and a batteries-included philosophy. Our goal is to help developers build faster, more resilient and more scalable applications.
 
 ## Security Testing
-
   Useful links:
   * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
 
 ## API Testing
+* [cURL](https://curl.haxx.se/download.html): initial release date: **1997**, written in: **C**. The name stands for "Client URL". cURL is providing a library and command-line toolfor transferring data using various protocols. Installing and using cURL on Mac OS:
+  * `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+  * `brew install curl`
+  * `curl http://localhost:3000 # Server will receive a GET HTTP request`
+  * `curl -X POST http://localhost:3000 # Server will receive a POST HTTP request`
+  * `curl -X PUT http://localhost:3000 # Server will receive a PUT HTTP request`
+  * `curl -X DELETE http://localhost:3000 # Server will receive a DELETE HTTP request`
+
 * [Postman](https://www.getpostman.com/apps): initial release date: **February 19, 2016**, written in: **JavaScript**. Postman is a powerful API testing suite which has become a must-have tool for many developers. It has the ability to make various types of HTTP requests, i.e. GET, POST, PUT, PATCH. It is available for Windows, macOS, and Linux. To query an API endpoint, you’ll need to do the following steps:
 
   1. Enter the URL that you want to query in the URL bar in the top section.
@@ -111,14 +151,6 @@ Useful links:
   Useful links:
   * [The Basics of Using Postman for API Testing](https://www.youtube.com/watch?v=t5n07Ybz7yI).
   * [Writing tests in Postman](http://blog.getpostman.com/2017/10/25/writing-tests-in-postman/).
-
-* [cURL](https://curl.haxx.se/download.html): initial release date: **1997**, written in: **C**. The name stands for "Client URL". cURL is providing a library and command-line toolfor transferring data using various protocols. Installing and using cURL on Mac OS:
-  * `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-  * `brew install curl`
-  * `curl http://localhost:3000 # Server will receive a GET HTTP request`
-  * `curl -X POST http://localhost:3000 # Server will receive a POST HTTP request`
-  * `curl -X PUT http://localhost:3000 # Server will receive a PUT HTTP request`
-  * `curl -X DELETE http://localhost:3000 # Server will receive a DELETE HTTP request`
 
 * [Dredd](https://dredd.org/en/latest/installation.html): initial release date: **October 25, 2013**, written in: **JavaScript**. Dredd is a language-agnostic command-line tool for validating API description document against backend implementation of the API. Dredd reads your API description and step by step validates whether your API implementation replies with responses as they are described in the documentation.
 
@@ -150,6 +182,7 @@ Useful links:
   * [A Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction).
   * [A Better Way to Develop Node.js with Docker](https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093).
   * [Docker 101 workshop - introduction to Docker and basic concepts](https://github.com/gravitational/workshop/blob/master/docker.md).
+  * [Top 4 Tactics To Keep Node.js Rockin’ in Docker](https://blog.docker.com/2019/07/keep-nodejs-rockin-in-docker/).
 
 * [Kubernetes](https://kubernetes.io/docs/setup/): initial release date: **7 June, 2014**, written in: **Go**. Kubernetes (k8s) is an open-source system for automating deployment, scaling, and management of containerized applications. A container orchestrator like Kubernetes usually does two things:
   - Dynamically schedules container workloads within a cluster of computers. This is often referred to as distributed computing.
@@ -162,6 +195,9 @@ Useful links:
 * [Redmine](http://www.redmine.org/projects/redmine/wiki/Download): initial release date: **June 25, 2006**, written in: **Ruby**. Redmine is a free and open source, web-based project management and issue tracking tool. It allows users to manage multiple projects and associated subprojects. It features per project wikis and forums, time tracking, and flexible, role-based access control.
 
 * [Mantis](https://www.mantisbt.org/download.php): initial release date: **Nov 6, 2008**, written in: **PHP**. Mantis Bug Tracker is a free and open source, web-based bug tracking system. The most common use of MantisBT is to track software defects. However, MantisBT is often configured by users to serve as a more generic issue tracking system and project management tool.
+
+Useful links:
+* [Scrum, Kanban, and ScrumBan: What’s the Difference?](https://blog.gurock.com/scrum-kanban-scrumban/).
 
 ## Node.js
   Useful links:
@@ -190,7 +226,7 @@ Useful links:
   * How to access Google Spreadsheets with Node.js: [article 1](https://blog.stephsmith.io/tutorial-google-sheets-api-node-js/), [article 2](https://cmichel.io/how-to-access-google-spreadsheet-with-node/).
   * [A Guide to Node.js logging](https://www.twilio.com/blog/guide-node-js-logging).
   * [Understanding npm link](https://fhinkel.rocks/2018/10/25/Understanding-npm-link/).
-  * [Types of test unreliability - informative 30 min video with code examples by Rich Trott](https://www.youtube.com/watch?v=TKDMya4bznw)
+  * [Types of test unreliability](https://www.youtube.com/watch?v=TKDMya4bznw) - informative 30 min video with code examples by Rich Trott.
 
 # Thanks
 If this list of free open source software testing tools and links was helpful for you, please give it a **★ Star**
