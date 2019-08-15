@@ -226,7 +226,13 @@ Useful links:
   * How to access Google Spreadsheets with Node.js: [article 1](https://blog.stephsmith.io/tutorial-google-sheets-api-node-js/), [article 2](https://cmichel.io/how-to-access-google-spreadsheet-with-node/).
   * [A Guide to Node.js logging](https://www.twilio.com/blog/guide-node-js-logging).
   * [Understanding npm link](https://fhinkel.rocks/2018/10/25/Understanding-npm-link/).
+  * [Monorepos and npm](https://blog.npmjs.org/post/186494959890/monorepos-and-npm).
   * [Types of test unreliability](https://www.youtube.com/watch?v=TKDMya4bznw) - informative 30 min video with code examples by Rich Trott.
+
+## Leadership in QA
+Useful links:
+  * [The impact of your conversation style on your team](https://mysoftwarequality.wordpress.com/2019/07/22/leaders-do-you-understand-the-impact-of-your-conversation-style-on-your-team/).
+  * [One Key Metric Should Drive Quality Engineering](http://www.qarevolution.com/one-key-metric-should-drive-quality-engineering/).
 
 # Thanks
 If this list of free open source software testing tools and links was helpful for you, please give it a **★ Star**
