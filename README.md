@@ -151,6 +151,7 @@ Useful links:
   Useful links:
   * [The Basics of Using Postman for API Testing](https://www.youtube.com/watch?v=t5n07Ybz7yI).
   * [Writing tests in Postman](http://blog.getpostman.com/2017/10/25/writing-tests-in-postman/).
+  * [16 Postman assertions](http://thethinkingtester.blogspot.com/2019/07/one-request-sixteen-assertions.html).
 
 * [Dredd](https://dredd.org/en/latest/installation.html): initial release date: **October 25, 2013**, written in: **JavaScript**. Dredd is a language-agnostic command-line tool for validating API description document against backend implementation of the API. Dredd reads your API description and step by step validates whether your API implementation replies with responses as they are described in the documentation.
 
@@ -232,7 +233,8 @@ Useful links:
 ## Leadership in QA
 Useful links:
   * [The impact of your conversation style on your team](https://mysoftwarequality.wordpress.com/2019/07/22/leaders-do-you-understand-the-impact-of-your-conversation-style-on-your-team/).
-  * [One Key Metric Should Drive Quality Engineering](http://www.qarevolution.com/one-key-metric-should-drive-quality-engineering/).
+  * [One key metric should drive quality engineering](http://www.qarevolution.com/one-key-metric-should-drive-quality-engineering/).
+  * [What you should really measure in your annual performance reviews (and why)](https://www.atlassian.com/blog/hr-teams/our-performance-reviews-framework).
 
 # Thanks
 If this list of free open source software testing tools and links was helpful for you, please give it a **★ Star**
