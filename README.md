@@ -95,6 +95,9 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 * [TestCafe](https://devexpress.github.io/testcafe/documentation/getting-started/): initial release date: **October 17, 2016**, written in: **JavaScript**. TestCafe is Node.js tool to automate end-to-end web testing. TestCafe runs on Windows, MacOS, Linux and supports desktop, mobile, remote and cloud browsers (UI or headless).
 
+  Useful links:
+  * [Injecting cookies in your TestCafe automation](https://azevedorafaela.com/2019/07/24/inject-cookies-in-your-testcafe-automation/).
+
 * [RSpec](https://github.com/rspec/rspec#install): initial release date: **August 2005**, written in: **Ruby**. RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications. It utilizes easy-to-read syntax (`describe`, `it`). Here is a [free, once-weekly e-mail](http://elementalselenium.com/) on how to use Selenium with RSpec (also see the [full archive of useful tips](http://elementalselenium.com/tips)).
 
 ## Unit Testing
@@ -231,6 +234,7 @@ Useful links:
   * [Understanding npm link](https://fhinkel.rocks/2018/10/25/Understanding-npm-link/).
   * [Monorepos and npm](https://blog.npmjs.org/post/186494959890/monorepos-and-npm).
   * [Types of test unreliability](https://www.youtube.com/watch?v=TKDMya4bznw) - informative 30 min video with code examples by Rich Trott.
+  * [Running Python scripts from Node.js](https://thecodinginterface.com/blog/bridging-nodejs-and-python-with-pynode/).
 
 ## Leadership in QA
 Useful links:
