@@ -241,6 +241,7 @@ Useful links:
   * [The impact of your conversation style on your team](https://mysoftwarequality.wordpress.com/2019/07/22/leaders-do-you-understand-the-impact-of-your-conversation-style-on-your-team/).
   * [One key metric should drive quality engineering](http://www.qarevolution.com/one-key-metric-should-drive-quality-engineering/).
   * [What you should really measure in your annual performance reviews (and why)](https://www.atlassian.com/blog/hr-teams/our-performance-reviews-framework).
+  * [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/).
 
 # Thanks
 If this list of free open source software testing tools and links was helpful for you, please give it a **★ Star**
