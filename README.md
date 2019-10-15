@@ -43,13 +43,13 @@ We love all the free things out there, but it would be good to keep it on topic.
   - Dredd
 * [Linting and Code Quality](#linting-and-code-quality):
   - ESLint
-* [Version control systems (VCS)](#version-control-systems-vcs):
+* [Version Control Systems (VCS)](#version-control-systems-vcs):
   - Git
 * [Continuous Integration (CI / CD)](#continuous-integration-ci--cd):
   - Jenkins
   - Travis
   - Gitlab
-* [Containerization tools](#containerization-tools):
+* [Containerization Tools](#containerization-tools):
   - Docker
   - Kubernetes
 * [Bug Tracking and Task Management](#bug-tracking-and-task-management):
@@ -57,6 +57,7 @@ We love all the free things out there, but it would be good to keep it on topic.
   - Mantis
 * [Node.js](#nodejs)
 * [Leadership in QA](#leadership-in-qa)
+* [Job Search](#job-search)
 
 ## Code Editors and IDE
 
@@ -166,7 +167,10 @@ Useful links:
 ## Linting and Code Quality
 * [ESLint](https://eslint.org/): initial release date: **June 30, 2013**, written in: **JavaScript**. ESLint a pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
 
-## Version control systems (VCS)
+  Useful links:
+  * [Why npm lockfiles can be a security blindspot for injecting malicious modules](https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/).
+
+## Version Control Systems (VCS)
 * [Git](https://git-scm.com/downloads): initial release date: **April 7, 2005**, written in: **C, Perl, Tcl, Python**. Git is a version-control system for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for source-code management in software development, but it can be used to keep track of changes in any set of files.
 
   Useful links:
@@ -181,7 +185,7 @@ Useful links:
 
 * [Gitlab](https://about.gitlab.com/install/): initial release date: **October, 2011**, written in: **Ruby, Go, JavaScript**. GitLab is a web-based Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features. It usually has to be installed on your servers / machines.
 
-## Containerization tools
+## Containerization Tools
 * [Docker](https://hub.docker.com/search/?type=edition&offering=community):  initial release date: **December 21, 2013**, written in: **Go**. Docker is essentially, an isolated environment for your code to run in.
 
   Useful links:
@@ -242,6 +246,9 @@ Useful links:
   * [One key metric should drive quality engineering](http://www.qarevolution.com/one-key-metric-should-drive-quality-engineering/).
   * [What you should really measure in your annual performance reviews (and why)](https://www.atlassian.com/blog/hr-teams/our-performance-reviews-framework).
   * [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/).
+
+## Job Search
+  * [Tips on writing good resumes](https://medium.com/hackernoon/on-r%C3%A9sum%C3%A9s-and-applying-to-jobs-4c8cfcc7bf26).
 
 # Thanks
 If this list of free open source software testing tools and links was helpful for you, please give it a **★ Star**
