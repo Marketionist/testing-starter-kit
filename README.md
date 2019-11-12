@@ -93,6 +93,7 @@ We love all the free things out there, but it would be good to keep it on topic.
   * [Getting to Know Puppeteer Using Practical Examples](https://nitayneeman.com/posts/getting-to-know-puppeteer-using-practical-examples/).
   * [Puppeteer keyboard keys to use in `keyboard.type`](https://github.com/GoogleChrome/puppeteer/blob/master/lib/USKeyboardLayout.js).
   * [Puppeteer Snippets extension for VS Code](https://marketplace.visualstudio.com/items?itemName=nitayneeman.puppeteer-snippets).
+  * [The Power of Headless Chrome and Automation Using Puppeteer](https://engineering.opensooq.com/the-power-of-headless-chrome-and-pwa-automation-using-puppeteer/).
 
 * [TestCafe](https://devexpress.github.io/testcafe/documentation/getting-started/): initial release date: **October 17, 2016**, written in: **JavaScript**. TestCafe is Node.js tool to automate end-to-end web testing. TestCafe runs on Windows, MacOS, Linux and supports desktop, mobile, remote and cloud browsers (UI or headless).
 
@@ -116,6 +117,7 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 Useful links:
 * [Node.js & JavaScript Unit Testing Best Practices](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347).
+* [How to test software: mocking, stubbing, and contract testing](https://circleci.com/blog/how-to-test-software-part-i-mocking-stubbing-and-contract-testing/).
 
 ## Load Testing
 * [JMeter](https://jmeter.apache.org/download_jmeter.cgi): initial release date: **December 15, 1998**, written in: **Java**. Apache JMeter is a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications.
