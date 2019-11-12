@@ -117,6 +117,7 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 Useful links:
 * [Node.js & JavaScript Unit Testing Best Practices](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347).
+* [How to test software: mocking, stubbing, and contract testing](https://circleci.com/blog/how-to-test-software-part-i-mocking-stubbing-and-contract-testing/).
 
 ## Load Testing
 * [JMeter](https://jmeter.apache.org/download_jmeter.cgi): initial release date: **December 15, 1998**, written in: **Java**. Apache JMeter is a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications.
