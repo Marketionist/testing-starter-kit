@@ -170,6 +170,7 @@ Useful links:
 * [ESLint](https://eslint.org/): initial release date: **June 30, 2013**, written in: **JavaScript**. ESLint a pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
 
   Useful links:
+  * [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions).
   * [Why npm lockfiles can be a security blindspot for injecting malicious modules](https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/).
 
 ## Version Control Systems (VCS)
