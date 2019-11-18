@@ -235,6 +235,7 @@ Useful links:
     - [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA);
     - [Factory Functions in JavaScript](https://www.youtube.com/watch?v=ImwrezYhw4w).
   * [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs).
+  * [7 Methods for Working with Directories in Node.js](https://coderrocketfuel.com/article/7-methods-for-working-with-directories-in-node-js).
   * [How to build a CLI with Node.js](https://www.twilio.com/blog/how-to-build-a-cli-with-node-js).
   * How to access Google Spreadsheets with Node.js: [article 1](https://blog.stephsmith.io/tutorial-google-sheets-api-node-js/), [article 2](https://cmichel.io/how-to-access-google-spreadsheet-with-node/).
   * [A Guide to Node.js logging](https://www.twilio.com/blog/guide-node-js-logging).
