@@ -170,6 +170,7 @@ Useful links:
 * [ESLint](https://eslint.org/): initial release date: **June 30, 2013**, written in: **JavaScript**. ESLint a pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
 
   Useful links:
+  * [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions).
   * [Why npm lockfiles can be a security blindspot for injecting malicious modules](https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/).
 
 ## Version Control Systems (VCS)
@@ -234,6 +235,7 @@ Useful links:
     - [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA);
     - [Factory Functions in JavaScript](https://www.youtube.com/watch?v=ImwrezYhw4w).
   * [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs).
+  * [7 Methods for Working with Directories in Node.js](https://coderrocketfuel.com/article/7-methods-for-working-with-directories-in-node-js).
   * [How to build a CLI with Node.js](https://www.twilio.com/blog/how-to-build-a-cli-with-node-js).
   * How to access Google Spreadsheets with Node.js: [article 1](https://blog.stephsmith.io/tutorial-google-sheets-api-node-js/), [article 2](https://cmichel.io/how-to-access-google-spreadsheet-with-node/).
   * [A Guide to Node.js logging](https://www.twilio.com/blog/guide-node-js-logging).
@@ -251,6 +253,7 @@ Useful links:
 
 ## Job Search
   * [Tips on writing good resumes](https://medium.com/hackernoon/on-r%C3%A9sum%C3%A9s-and-applying-to-jobs-4c8cfcc7bf26).
+  * [How to advance your career by contributing to open source projects](https://opensource.com/article/19/5/how-get-job-doing-open-source).
 
 # Thanks
 If this list of free open source software testing tools and links was helpful for you, please give it a **★ Star**
