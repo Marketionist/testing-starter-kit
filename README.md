@@ -253,6 +253,7 @@ Useful links:
 
 ## Job Search
   * [Tips on writing good resumes](https://medium.com/hackernoon/on-r%C3%A9sum%C3%A9s-and-applying-to-jobs-4c8cfcc7bf26).
+  * [How to advance your career by contributing to open source projects](https://opensource.com/article/19/5/how-get-job-doing-open-source).
 
 # Thanks
 If this list of free open source software testing tools and links was helpful for you, please give it a **★ Star**
