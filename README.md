@@ -52,6 +52,8 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Containerization Tools](#containerization-tools):
   - Docker
   - Kubernetes
+* [Command Line Tools (CLI)](#command-line-tools-cli):
+  - Grep
 * [Bug Tracking and Task Management](#bug-tracking-and-task-management):
   - Redmine
   - Mantis
@@ -203,6 +205,12 @@ Useful links:
 
   Useful links:
   * [Kubernetes Production Patterns and Anti-Patterns](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
+
+## Command Line Tools (CLI)
+* [Grep]():
+
+  Useful links:
+  * [Manipulating text at the command line with grep](https://www.redhat.com/sysadmin/manipulating-text-grep).
 
 ## Bug Tracking and Task Management
 * [Redmine](http://www.redmine.org/projects/redmine/wiki/Download): initial release date: **June 25, 2006**, written in: **Ruby**. Redmine is a free and open source, web-based project management and issue tracking tool. It allows users to manage multiple projects and associated subprojects. It features per project wikis and forums, time tracking, and flexible, role-based access control.
