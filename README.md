@@ -207,10 +207,12 @@ Useful links:
   * [Kubernetes Production Patterns and Anti-Patterns](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 
 ## Command Line Tools (CLI)
-* [Grep]():
+* [Grep](https://www.gnu.org/savannah-checkouts/gnu/grep/manual/grep.html): initial release date: **November, 1974**, written in: **PDP-11 assembly**. Grep is a command-line utility for searching plain-text data sets for lines that match a regular expression. Its name comes from g/re/p (globally search a regular expression and print), which has the same effect: doing a global search with the regular expression and printing all matching lines.
 
   Useful links:
   * [Manipulating text at the command line with grep](https://www.redhat.com/sysadmin/manipulating-text-grep).
+
+* [AWK](https://www.gnu.org/software/gawk/manual/gawk.html): initial release date: **1977**, written in: **C**. AWK is a scripting language used for manipulating data and generating reports.The awk command programming language requires no compiling, and allows the user to use variables, numeric functions, string functions, and logical operators.
 
 ## Bug Tracking and Task Management
 * [Redmine](http://www.redmine.org/projects/redmine/wiki/Download): initial release date: **June 25, 2006**, written in: **Ruby**. Redmine is a free and open source, web-based project management and issue tracking tool. It allows users to manage multiple projects and associated subprojects. It features per project wikis and forums, time tracking, and flexible, role-based access control.
