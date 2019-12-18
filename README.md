@@ -190,6 +190,9 @@ Useful links:
 
 * [Gitlab](https://about.gitlab.com/install/): initial release date: **October, 2011**, written in: **Ruby, Go, JavaScript**. GitLab is a web-based Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features. It usually has to be installed on your servers / machines.
 
+Useful links:
+* [Github Actions](https://blog.testdouble.com/posts/2019-11-21-first-look-at-github-actions/).
+
 ## Containerization Tools
 * [Docker](https://hub.docker.com/search/?type=edition&offering=community):  initial release date: **December 21, 2013**, written in: **Go**. Docker is essentially, an isolated environment for your code to run in.
 
@@ -251,6 +254,7 @@ Useful links:
   * [A Guide to Node.js logging](https://www.twilio.com/blog/guide-node-js-logging).
   * [Understanding npm link](https://fhinkel.rocks/2018/10/25/Understanding-npm-link/).
   * [Monorepos and npm](https://blog.npmjs.org/post/186494959890/monorepos-and-npm).
+  * [JavaScript modules](https://v8.dev/features/modules).
   * [Types of test unreliability](https://www.youtube.com/watch?v=TKDMya4bznw) - informative 30 min video with code examples by Rich Trott.
   * [Running Python scripts from Node.js](https://thecodinginterface.com/blog/bridging-nodejs-and-python-with-pynode/).
 
