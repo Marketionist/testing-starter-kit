@@ -264,6 +264,8 @@ Useful links:
   * [One key metric should drive quality engineering](http://www.qarevolution.com/one-key-metric-should-drive-quality-engineering/).
   * [What you should really measure in your annual performance reviews (and why)](https://www.atlassian.com/blog/hr-teams/our-performance-reviews-framework).
   * [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/).
+  * [Emotional intelligence: 7 essential tips for leaders](https://enterprisersproject.com/article/2019/12/emotional-intelligence-7-tips).
+  * [IT burnout](https://www.redhat.com/sysadmin/it-burnout).
 
 ## Job Search
   * [Tips on writing good resumes](https://medium.com/hackernoon/on-r%C3%A9sum%C3%A9s-and-applying-to-jobs-4c8cfcc7bf26).
