@@ -1,0 +1,18 @@
+# http://docs.travis-ci.com/user/workers/container-based-infrastructure/
+sudo: required
+dist: trusty
+
+# http://docs.travis-ci.com/user/languages/javascript-with-nodejs/
+language: node_js
+node_js:
+  - "12"
+
+install:
+  - npm install
+
+before_script:
+  - npm run lint
+
+# http://docs.travis-ci.com/user/pull-requests/
+script:
+  - npm test
