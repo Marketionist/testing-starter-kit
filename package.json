@@ -1,0 +1,38 @@
+{
+  "name": "testing-starter-kit",
+  "version": "1.0.0",
+  "description": "A collection of free open source software testing tools with some links on how to use them",
+  "main": "README.md",
+  "engines": {
+    "node": ">=8.x.x"
+  },
+  "scripts": {
+    "lint": "node_modules/.bin/eslint ./**/*.js",
+    "patch": "npm version patch -m \"Bumped up package version to %s\" && git push && git push origin --tags && npm publish",
+    "minor": "npm version minor -m \"Bumped up package version to %s\" && git push && git push origin --tags && npm publish",
+    "major": "npm version major -m \"Bumped up package version to %s\" && git push && git push origin --tags && npm publish",
+    "test": "node ./tests/links.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Marketionist/testing-starter-kit"
+  },
+  "keywords": [
+    "testing tools",
+    "QA tools",
+    "free testing tools",
+    "free QA tools",
+    "testing tools list",
+    "QA tools list",
+    "free testing tools list",
+    "free QA tools list",
+    "open source testing tools list",
+    "open source QA tools list"
+  ],
+  "author": "Dmytro Shpakovskyi",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "img-link-checker": "^1.0.1"
+  }
+}
