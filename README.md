@@ -69,7 +69,7 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/download/): initial release date: **January 2001**, written in: **Java**. IntelliJ IDEA is a Java integrated development environment for developing computer software. It is developed by JetBrains and is available as an Apache 2 Licensed community edition and in a proprietary commercial edition. Both can be used for commercial development.
 
-* [CodePen](https://codepen.io/): initial release date: **2012**. CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets, creatively named "pens", and test them.
+* codepen.io: initial release date: **2012**. CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets, creatively named "pens", and test them.
 
 ## Automated Browser Testing (end-to-end)
 * [Selenium](https://github.com/SeleniumHQ/selenium): initial release date: **July 2012**, written in: **Java**. Selenium automates browsers. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Selenium has the support of some of the largest browser vendors who have taken (or are taking) steps to make Selenium a native part of their browser. It is also the core technology in countless other browser automation tools, APIs and frameworks. Selenium has 2 incarnations:
