@@ -143,6 +143,7 @@ Useful links:
 ## Security Testing
   Useful links:
   * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
+  * [Node Security: Fixing OWASP Top 10](https://nodegoat.herokuapp.com/tutorial).
 
 ## API Testing
 * [cURL](https://curl.haxx.se/download.html): initial release date: **1997**, written in: **C**. The name stands for "Client URL". cURL is providing a library and command-line toolfor transferring data using various protocols. Installing and using cURL on Mac OS:
