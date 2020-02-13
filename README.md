@@ -101,6 +101,7 @@ We love all the free things out there, but it would be good to keep it on topic.
 
   Useful links:
   * [Injecting cookies in your TestCafe automation](https://azevedorafaela.com/2019/07/24/inject-cookies-in-your-testcafe-automation/).
+  * [Integrating TestCafe With TestRail](https://www.agiletestware.com/blog/?p=62).
 
 * [RSpec](https://github.com/rspec/rspec#install): initial release date: **August 2005**, written in: **Ruby**. RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications. It utilizes easy-to-read syntax (`describe`, `it`). Here is a [free, once-weekly e-mail](http://elementalselenium.com/) on how to use Selenium with RSpec (also see the [full archive of useful tips](http://elementalselenium.com/tips)).
 
@@ -259,6 +260,7 @@ Useful links:
   * [JavaScript modules](https://v8.dev/features/modules).
   * [Types of test unreliability](https://www.youtube.com/watch?v=TKDMya4bznw) - informative 30 min video with code examples by Rich Trott.
   * [Running Python scripts from Node.js](https://thecodinginterface.com/blog/bridging-nodejs-and-python-with-pynode/).
+  * [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf).
 
 ## Leadership in QA
 Useful links:
@@ -274,5 +276,6 @@ Useful links:
   * [How to advance your career by contributing to open source projects](https://opensource.com/article/19/5/how-get-job-doing-open-source).
 
 # Thanks
-If this list of free open source software testing tools and links was helpful for you, please give it a **★ Star**
+If this list of free open source software testing tools and links was helpful to
+you, please give it a **★ Star**
 on [github](https://github.com/Marketionist/testing-starter-kit).
