@@ -261,6 +261,7 @@ Useful links:
   * [Types of test unreliability](https://www.youtube.com/watch?v=TKDMya4bznw) - informative 30 min video with code examples by Rich Trott.
   * [Running Python scripts from Node.js](https://thecodinginterface.com/blog/bridging-nodejs-and-python-with-pynode/).
   * [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf).
+  * [Object.assign vs Object Spread in Node.js](http://thecodebarbarian.com/object-assign-vs-object-spread.html).
 
 ## Leadership in QA
 Useful links:
