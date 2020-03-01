@@ -105,6 +105,9 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 * [RSpec](https://github.com/rspec/rspec#install): initial release date: **August 2005**, written in: **Ruby**. RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications. It utilizes easy-to-read syntax (`describe`, `it`). Here is a [free, once-weekly e-mail](http://elementalselenium.com/) on how to use Selenium with RSpec (also see the [full archive of useful tips](http://elementalselenium.com/tips)).
 
+Useful links:
+* [The Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) which have a high probability of causing issues when used as user-input data.
+
 ## Unit Testing
 * [Mocha]():
 
@@ -275,6 +278,7 @@ Useful links:
 ## Job Search
   * [Tips on writing good resumes](https://medium.com/hackernoon/on-r%C3%A9sum%C3%A9s-and-applying-to-jobs-4c8cfcc7bf26).
   * [How to advance your career by contributing to open source projects](https://opensource.com/article/19/5/how-get-job-doing-open-source).
+  * [A curated list of established remote/distributed/virtual tech companies](https://github.com/yanirs/established-remote).
 
 # Thanks
 If this list of free open source software testing tools and links was helpful to
