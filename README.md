@@ -93,7 +93,7 @@ We love all the free things out there, but it would be good to keep it on topic.
   Useful links:
   * [Web Scraping with a Headless Browser: A Puppeteer Tutorial](https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial).
   * [Getting to Know Puppeteer Using Practical Examples](https://nitayneeman.com/posts/getting-to-know-puppeteer-using-practical-examples/).
-  * [Puppeteer keyboard keys to use in `keyboard.type`](https://github.com/GoogleChrome/puppeteer/blob/master/lib/USKeyboardLayout.js).
+  * [Puppeteer keyboard keys to use in `keyboard.type`](https://github.com/puppeteer/puppeteer/blob/main/src/common/USKeyboardLayout.ts).
   * [Puppeteer Snippets extension for VS Code](https://marketplace.visualstudio.com/items?itemName=nitayneeman.puppeteer-snippets).
   * [The Power of Headless Chrome and Automation Using Puppeteer](https://engineering.opensooq.com/the-power-of-headless-chrome-and-pwa-automation-using-puppeteer/).
 
