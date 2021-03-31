@@ -100,7 +100,7 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [TestCafe](https://devexpress.github.io/testcafe/documentation/getting-started/): initial release date: **October 17, 2016**, written in: **JavaScript**. TestCafe is Node.js tool to automate end-to-end web testing. TestCafe runs on Windows, MacOS, Linux and supports desktop, mobile, remote and cloud browsers (UI or headless).
 
   Useful links:
-  * [Why TestCafe is better than Selenium](https://github.com/DevExpress/testcafe/tree/master/docs/articles/documentation/how-it-works).
+  * [Why TestCafe is better than Selenium](https://github.com/DevExpress/testcafe/tree/master/docs/articles/documentation/why-testcafe).
   * [Injecting cookies in your TestCafe automation](https://azevedorafaela.com/2019/07/24/inject-cookies-in-your-testcafe-automation/).
   * [Integrating TestCafe With TestRail](https://www.agiletestware.com/blog/?p=62).
 
@@ -144,7 +144,7 @@ Useful links:
 
 * [Gatling]():
 
-* [Artillery](https://artillery.io/docs/getting-started/): initial release date: **November 17, 2015**, written in: **JavaScript**. Artillery is a modern, powerful, easy-to-use load-testing toolkit. Artillery has a strong focus on developer happiness & ease of use, and a batteries-included philosophy. Our goal is to help developers build faster, more resilient and more scalable applications.
+* [Artillery](https://artillery.io/docs/guides/getting-started/installing-artillery.html): initial release date: **November 17, 2015**, written in: **JavaScript**. Artillery is a modern, powerful, easy-to-use load-testing toolkit. Artillery has a strong focus on developer happiness & ease of use, and a batteries-included philosophy. Our goal is to help developers build faster, more resilient and more scalable applications.
 
 ## Security Testing
   Useful links:
