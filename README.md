@@ -277,6 +277,7 @@ Useful links:
   * [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/).
   * [Emotional intelligence: 7 essential tips for leaders](https://enterprisersproject.com/article/2019/12/emotional-intelligence-7-tips).
   * [IT burnout](https://www.redhat.com/sysadmin/it-burnout).
+  * [The Joys of Managing Engineering Teams by Maryam Umar](https://www.youtube.com/watch?v=64Mzvjls8mU).
 
 ## Job Search
   * [Tips on writing good resumes](https://medium.com/hackernoon/on-r%C3%A9sum%C3%A9s-and-applying-to-jobs-4c8cfcc7bf26).
