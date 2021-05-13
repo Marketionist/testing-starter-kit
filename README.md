@@ -100,7 +100,7 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [TestCafe](https://devexpress.github.io/testcafe/documentation/getting-started/): initial release date: **October 17, 2016**, written in: **JavaScript**. TestCafe is Node.js tool to automate end-to-end web testing. TestCafe runs on Windows, MacOS, Linux and supports desktop, mobile, remote and cloud browsers (UI or headless).
 
   Useful links:
-  * [Why TestCafe is better than Selenium](https://github.com/DevExpress/testcafe/tree/master/docs/articles/documentation/why-testcafe).
+  * [Why TestCafe is better than Selenium](https://testcafe.io/documentation/402631/why-testcafe).
   * [Injecting cookies in your TestCafe automation](https://azevedorafaela.com/2019/07/24/inject-cookies-in-your-testcafe-automation/).
   * [Integrating TestCafe With TestRail](https://www.agiletestware.com/blog/?p=62).
 
