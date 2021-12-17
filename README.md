@@ -267,6 +267,7 @@ Useful links:
   * [Running Python scripts from Node.js](https://thecodinginterface.com/blog/bridging-nodejs-and-python-with-pynode/).
   * [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf).
   * [Object.assign vs Object Spread in Node.js](http://thecodebarbarian.com/object-assign-vs-object-spread.html).
+  * [How To Write Shell Scripts in Node with Google’s zx Library](https://www.sitepoint.com/google-zx-write-node-shell-scripts/).
   * [The Death of a Node.js Process](https://thomashunter.name/posts/2021-03-08-the-death-of-a-nodejs-process).
 
 ## Leadership in QA
