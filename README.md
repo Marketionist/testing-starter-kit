@@ -19,11 +19,13 @@ We love all the free things out there, but it would be good to keep it on topic.
   - CodePen
 * [Automated Browser Testing (end-to-end)](#automated-browser-testing-end-to-end):
   - Selenium
-  - Protractor
-  - WebdriverIO
-  - Nightwatch
-  - Puppeteer
   - RSpec
+  - Protractor
+  - Nightwatch
+  - WebdriverIO
+  - Puppeteer
+  - TestCafe
+  - Playwright
 * [Unit Testing](#unit-testing):
   - Mocha
   - Chai
@@ -39,8 +41,8 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Security Testing](#security-testing)
 * [API Testing](#api-testing):
   - cURL
-  - Postman
   - Dredd
+  - Postman
 * [Linting and Code Quality](#linting-and-code-quality):
   - ESLint
 * [Version Control Systems (VCS)](#version-control-systems-vcs):
@@ -76,7 +78,11 @@ We love all the free things out there, but it would be good to keep it on topic.
   * [Selenium IDE](https://www.seleniumhq.org/projects/ide/): is more simple and fast way to create automated testing scripts by clicking and recording your actions with record-and-playback Firefox add-on. It is mostly used to create simple scripts to aid in automation-aided exploratory testing. It requires some knowledge of HTML.
   * [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver/): is more sophisticated and powerful tool to create robust, browser-based regression automation suites and tests. It requires some knowledge of programming languages - can be used [one of the following](https://github.com/SeleniumHQ/selenium#documentation): Java, JavaScript, Python, Ruby, C#.
 
+* [RSpec](https://github.com/rspec/rspec#install): initial release date: **August 2005**, written in: **Ruby**. RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications. It utilizes easy-to-read syntax (`describe`, `it`). Here is a [free, once-weekly e-mail](http://elementalselenium.com/) on how to use Selenium with RSpec (also see the [full archive of useful tips](http://elementalselenium.com/tips)).
+
 * [Protractor](https://www.protractortest.org/#/tutorial): initial release date: **Jun 12, 2013**, written in: **JavaScript**. Protractor is an end-to-end test framework for Angular and AngularJS applications (can be used for non-Angular websites too). Protractor runs tests against your application running in a real browser, interacting with it as a user would.
+
+* [Nightwatch]():
 
 * [WebdriverIO](https://webdriver.io/docs/gettingstarted.html): initial release date: **May 17, 2012**, written in: **JavaScript**. WebdriverIO is a test automation framework that allows you to run tests based on the Webdriver protocol and Appium automation technology. It provides support for your favorite BDD/TDD test framework and will run your tests locally or in the cloud using Sauce Labs, BrowserStack or TestingBot.
 
@@ -85,8 +91,6 @@ We love all the free things out there, but it would be good to keep it on topic.
   * [A Tour Through the Newly Architected WebdriverIO Home](https://www.youtube.com/watch?v=1x8eUCBg_wk).
   * [Front-end Testing with Kevin](https://www.youtube.com/user/medigerati/videos?flow=grid&sort=p&view=0) - a collection of WebdriverIO tutorial videos.
   * [A look at the browser.execute command](https://www.youtube.com/watch?v=GpXKmVL17Tc).
-
-* [Nightwatch]():
 
 * [Puppeteer](https://pptr.dev/): initial release date: **August 16, 2017**, written in: **JavaScript**. Puppeteer is a Node.js library maintained by Chrome's development team from Google. Puppeteer provides a high-level API to control Chrome or Chromium (by default headless, but can be [configured to run full non-headless](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md#puppeteerlaunchoptions) Chrome or Chromium) or interact with the DevTools protocol.
 
@@ -104,7 +108,11 @@ We love all the free things out there, but it would be good to keep it on topic.
   * [Injecting cookies in your TestCafe automation](https://azevedorafaela.com/2019/07/24/inject-cookies-in-your-testcafe-automation/).
   * [Integrating TestCafe With TestRail](https://www.agiletestware.com/blog/?p=62).
 
-* [RSpec](https://github.com/rspec/rspec#install): initial release date: **August 2005**, written in: **Ruby**. RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications. It utilizes easy-to-read syntax (`describe`, `it`). Here is a [free, once-weekly e-mail](http://elementalselenium.com/) on how to use Selenium with RSpec (also see the [full archive of useful tips](http://elementalselenium.com/tips)).
+* [Playwright](https://playwright.dev/docs/intro): initial release date: **31 January, 2020**, written in: **JavaScript**. Playwright is a framework for Web
+Testing and Automation. It allows testing Chromium, Firefox and WebKit with a
+single API. Playwright is built to enable cross-browser web automation that is
+ever-green, capable, reliable and fast.
+
 
 Useful links:
 * [The Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) which have a high probability of causing issues when used as user-input data.
