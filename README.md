@@ -127,7 +127,11 @@ Useful links:
 
 * [Karma](https://www.npmjs.com/package/karma): initial release date: **March 11, 2012**, written in: **JavaScript**. A simple tool that allows you to execute JavaScript code in multiple real browsers. Karma is not a testing framework, nor an assertion library. Karma just launches an HTTP server, and generates the test runner HTML file you probably already know from your favourite testing framework. So for testing purposes you can use pretty much anything you like. There are already plugins for most of the common testing frameworks: Jasmine, Mocha and [many others](https://www.npmjs.com/search?q=keywords:karma-adapter).
 
-* [Jest]():
+* [Jest](https://jestjs.io/docs/getting-started): initial release date: **April, 2016**, written in: **JavaScript**. Jest is a delightful JavaScript Testing
+Framework with a focus on simplicity. It was developed by Facebook.
+
+  Useful links:
+  * [The only 3 steps you need to mock an API call in Jest](https://dev.to/zaklaughton/the-only-3-steps-you-need-to-mock-an-api-call-in-jest-39mb).
 
 * [AVA](https://github.com/avajs/ava): initial release date: **April 14, 2018**, written in: **JavaScript**. AVA is a test runner for Node.js with a concise API, detailed error output, embrace of new language features and process isolation that let you write tests more effectively.
 
