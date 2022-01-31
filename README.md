@@ -300,6 +300,8 @@ Useful links:
   * [IT burnout](https://www.redhat.com/sysadmin/it-burnout).
   * [Job interviews: how to spot toxic management](https://www.welcometothejungle.com/en/articles/job-interviews-how-to-spot-toxic-management).
   * [The Joys of Managing Engineering Teams by Maryam Umar](https://www.youtube.com/watch?v=64Mzvjls8mU).
+  * [Being successfull as a team glue](https://www.slideshare.net/TanyaReilly/being-glue).
+  * [An Introvert's Guide to being a Mentor - with a plan](https://dev.to/geekgalgroks/an-introvert-s-guide-to-being-a-mentor-39nh).
 
 ## Job Search
   * [Tips on writing good resumes](https://medium.com/hackernoon/on-r%C3%A9sum%C3%A9s-and-applying-to-jobs-4c8cfcc7bf26).
