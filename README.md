@@ -159,6 +159,8 @@ Useful links:
 
 * [Artillery](https://artillery.io/docs/guides/getting-started/installing-artillery.html): initial release date: **November 17, 2015**, written in: **JavaScript**. Artillery is a modern, powerful, easy-to-use load-testing toolkit. Artillery has a strong focus on developer happiness & ease of use, and a batteries-included philosophy. Our goal is to help developers build faster, more resilient and more scalable applications.
 
+* [k6](https://k6.io/docs/get-started/installation/): initial release date: **January 18, 2017**, written in: **Go**, but scripts are written in JavaScript (see [get started guide](https://k6.io/docs/get-started/running-k6/)). k6 is an open-source load testing tool that makes performance testing easy and productive for engineering teams. k6 is free, developer-centric, and extensible. Using k6, you can test the reliability and performance of your systems and catch performance regressions and problems earlier. k6 will help you to build resilient and performant applications that scale.
+
 ## Security Testing
   Useful links:
   * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
