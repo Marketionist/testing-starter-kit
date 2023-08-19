@@ -38,6 +38,7 @@ We love all the free things out there, but it would be good to keep it on topic.
   - Tsung
   - Gatling
   - Artillery
+  - k6
 * [Security Testing](#security-testing)
 * [API Testing](#api-testing):
   - cURL
@@ -159,7 +160,7 @@ Useful links:
 
 * [Artillery](https://artillery.io/docs/guides/getting-started/installing-artillery.html): initial release date: **November 17, 2015**, written in: **JavaScript**. Artillery is a modern, powerful, easy-to-use load-testing toolkit. Artillery has a strong focus on developer happiness & ease of use, and a batteries-included philosophy. Our goal is to help developers build faster, more resilient and more scalable applications.
 
-* [k6](https://k6.io/docs/get-started/installation/): initial release date: **January 18, 2017**, written in: **Go**, but scripts are written in JavaScript (see [get started guide](https://k6.io/docs/get-started/running-k6/)). k6 is an open-source load testing tool that makes performance testing easy and productive for engineering teams. k6 is free, developer-centric, and extensible. Using k6, you can test the reliability and performance of your systems and catch performance regressions and problems earlier. k6 will help you to build resilient and performant applications that scale.
+* [k6](https://k6.io/docs/get-started/installation/): initial release date: **January 18, 2017**, written in: **Go**, but scripts are written in JavaScript (see the [running k6 guide](https://k6.io/docs/get-started/running-k6/)). k6 is an open-source load testing tool that makes performance testing easy and productive for engineering teams. k6 is free, developer-centric, and extensible. Using k6, you can test the reliability and performance of your systems and catch performance regressions and problems earlier. k6 will help you to build resilient and performant applications that scale.
 
 ## Security Testing
   Useful links:
@@ -317,4 +318,4 @@ Useful links:
 # Thanks
 If this list of free open source software testing tools and links was helpful to
 you, please give it a **★ Star**
-on [github](https://github.com/Marketionist/testing-starter-kit).
+on [GitHub](https://github.com/Marketionist/testing-starter-kit).
