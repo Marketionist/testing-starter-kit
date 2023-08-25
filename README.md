@@ -52,7 +52,8 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Continuous Integration (CI / CD)](#continuous-integration-ci--cd):
   - Jenkins
   - Travis
-  - Gitlab
+  - GitLab
+  - GitHub Actions
 * [Containerization Tools](#containerization-tools):
   - Docker
   - Kubernetes
@@ -219,10 +220,12 @@ directly from the command line.
 
 * [Travis](https://docs.travis-ci.com/user/tutorial/): initial release date: **November, 2010**, written in: **Ruby**. Travis is famous for: quick setup (just add `.travis.yml` configuration file, login with Github, tell Travis CI to test a project and then push to Github), live build views, pull request support, pre-installed database services, auto deployments on passing builds, clean VMs for every build, etc. With Travis CI testing your open source projects will always be free! It does not need to be installed on your servers / machines, it just needs to be enabled for your Github repository.
 
-* [Gitlab](https://about.gitlab.com/install/): initial release date: **October, 2011**, written in: **Ruby, Go, JavaScript**. GitLab is a web-based Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features. It usually has to be installed on your servers / machines.
+* [GitLab](https://about.gitlab.com/install/): initial release date: **October, 2011**, written in: **Ruby, Go, JavaScript**. GitLab is a web-based Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features. It usually has to be installed on your servers / machines.
 
-Useful links:
-* [Github Actions](https://blog.testdouble.com/posts/2019-11-21-first-look-at-github-actions/).
+* [GitHub Actions](https://docs.github.com/en/actions/quickstart): initial release date: **October, 2018**, written in: **Ruby, Java, JavaScript**. GitHub Actions are used to automate, customize, and execute your software development workflows right in your repository. You can create actions to perform any job you'd like, including CI/CD, and combine actions in a completely customized workflow.
+
+  Useful links:
+  * [A first look at GitHub Actions](https://blog.testdouble.com/posts/2019-11-21-first-look-at-github-actions/).
 
 ## Containerization Tools
 * [Docker](https://hub.docker.com/search/?type=edition&offering=community):  initial release date: **December 21, 2013**, written in: **Go**. Docker is essentially, an isolated environment for your code to run in.
