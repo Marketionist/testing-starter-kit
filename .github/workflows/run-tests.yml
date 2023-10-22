@@ -41,5 +41,11 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - run: npm install
-      - run: npm run lint
+      - run:  |
+          if [[ ${{ matrix.os }} != 'windows-latest' ]]; then
+            npm run lint
+          else
+            echo "Lint on Windows:"
+            npx eslint tests/**/*.js
+          fi
       - run: npm test
