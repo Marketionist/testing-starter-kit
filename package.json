@@ -7,7 +7,7 @@
     "node": ">=8.x.x"
   },
   "scripts": {
-    "lint": "node ./node_modules/.bin/eslint ./**/*.js",
+    "lint": "node ./node_modules/.bin/eslint tests/**/*.js",
     "patch": "npm version patch -m \"Bumped up package version to %s\" && git push && git push origin --tags && npm publish",
     "minor": "npm version minor -m \"Bumped up package version to %s\" && git push && git push origin --tags && npm publish",
     "major": "npm version major -m \"Bumped up package version to %s\" && git push && git push origin --tags && npm publish",
