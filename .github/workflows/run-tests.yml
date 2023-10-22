@@ -31,6 +31,9 @@ jobs:
       matrix:
         os: [ubuntu-latest, macos-latest, windows-latest]
         node-version: [20.x]
+    defaults:
+      run:
+        shell: bash
 
     steps:
       - name: Git checkout
