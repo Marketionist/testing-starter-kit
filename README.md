@@ -298,6 +298,7 @@ Useful links:
 
 ## Leadership in QA
 Useful links:
+  * [Leading quality in software organizations](https://lisacrispin.com/2023/10/31/leading-quality-in-agile-software-organizations/).
   * [The impact of your conversation style on your team](https://mysoftwarequality.wordpress.com/2019/07/22/leaders-do-you-understand-the-impact-of-your-conversation-style-on-your-team/).
   * [One key metric should drive quality engineering](http://www.qarevolution.com/one-key-metric-should-drive-quality-engineering/).
   * [What you should really measure in your annual performance reviews (and why)](https://www.atlassian.com/blog/hr-teams/our-performance-reviews-framework).
