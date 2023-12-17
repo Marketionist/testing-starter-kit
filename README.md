@@ -95,21 +95,20 @@ We love all the free things out there, but it would be good to keep it on topic.
   * [Front-end Testing with Kevin](https://www.youtube.com/user/medigerati/videos?flow=grid&sort=p&view=0) - a collection of WebdriverIO tutorial videos.
   * [A look at the browser.execute command](https://www.youtube.com/watch?v=GpXKmVL17Tc).
 
-* [Puppeteer](https://pptr.dev/): initial release date: **August 16, 2017**, written in: **JavaScript**. Puppeteer is a Node.js library maintained by Chrome's development team from Google. Puppeteer provides a high-level API to control Chrome or Chromium (by default headless, but can be [configured to run full non-headless](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md#puppeteerlaunchoptions) Chrome or Chromium) or interact with the DevTools protocol.
+* [Puppeteer](https://pptr.dev/): initial release date: **August 16, 2017**, written in: **JavaScript**. Puppeteer is a Node.js library maintained by Chrome's development team from Google. Puppeteer provides a high-level API to control Chrome or Chromium (by default headless, but can be [configured to run full non-headless](https://github.com/puppeteer/puppeteer/blob/main/docs/api/puppeteer.browserlaunchargumentoptions.md) Chrome or Chromium) or interact with the DevTools protocol.
 
   Useful links:
   * [Web Scraping with a Headless Browser: A Puppeteer Tutorial](https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial).
   * [Getting to Know Puppeteer Using Practical Examples](https://nitayneeman.com/posts/getting-to-know-puppeteer-using-practical-examples/).
-  * [Puppeteer keyboard keys to use in `keyboard.type`](https://github.com/puppeteer/puppeteer/blob/main/src/common/USKeyboardLayout.ts).
+  * [Puppeteer keyboard keys to use in `keyboard.type`](https://github.com/puppeteer/puppeteer/blob/main/packages/puppeteer-core/src/common/USKeyboardLayout.ts).
   * [Puppeteer Snippets extension for VS Code](https://marketplace.visualstudio.com/items?itemName=nitayneeman.puppeteer-snippets).
-  * [The Power of Headless Chrome and Automation Using Puppeteer](https://engineering.opensooq.com/the-power-of-headless-chrome-and-pwa-automation-using-puppeteer/).
 
 * [TestCafe](https://devexpress.github.io/testcafe/documentation/getting-started/): initial release date: **October 17, 2016**, written in: **JavaScript**. TestCafe is Node.js tool to automate end-to-end web testing. TestCafe runs on Windows, MacOS, Linux and supports desktop, mobile, remote and cloud browsers (UI or headless).
 
   Useful links:
   * [Why TestCafe is better than Selenium](https://testcafe.io/documentation/402631/why-testcafe).
   * [Injecting cookies in your TestCafe automation](https://azevedorafaela.com/2019/07/24/inject-cookies-in-your-testcafe-automation/).
-  * [Integrating TestCafe With TestRail](https://www.agiletestware.com/blog/?p=62).
+  * [Integrating TestCafe With TestRail](https://dev-tester.com/how-to-send-your-testcafe-test-results-to-testrail/).
 
 * [Playwright](https://playwright.dev/docs/intro): initial release date: **31 January, 2020**, written in: **JavaScript**. Playwright is a framework for Web
 Testing and Automation. It allows testing Chromium, Firefox and WebKit with a
@@ -166,11 +165,11 @@ Useful links:
 ## Security Testing
   Useful links:
   * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
-  * [Node Security: Fixing OWASP Top 10](https://nodegoat.herokuapp.com/tutorial).
+  * [Node Security: Fixing OWASP Top 10](https://github.com/OWASP/NodeGoat).
 
 ## API Testing
 * [cURL](https://curl.haxx.se/download.html): initial release date: **1997**, written in: **C**. The name stands for "Client URL". cURL is providing a library and command-line toolfor transferring data using various protocols. Installing and using cURL on Mac OS:
-  * `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+  * `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
   * `brew install curl`
   * `curl http://localhost:3000 # Server will receive a GET HTTP request`
   * `curl -X POST http://localhost:3000 # Server will receive a POST HTTP request`
@@ -265,7 +264,6 @@ Useful links:
   * [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) - nice 90 minute video on starting with Node.js.
   * [Cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/backend/node.js) on main Node.js functions and processes.
   * [Practical Node.js](https://github.com/azat-co/practicalnode) - open source book.
-  * [The Node.js Handbook](https://nodehandbook.com/) - free book (can be downloaded in PDF / ePub / Mobi).
   * [How to use Docker for Node.js development](https://cravencode.com/post/docker/nodejs-local-development/).
   * [Differences between iterating over an array with the 4 primary looping constructs in JavaScript](http://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript.html).
   * [The Pitfalls of Async/Await in Array Loops](https://medium.com/dailyjs/the-pitfalls-of-async-await-in-array-loops-cf9cf713bfeb).
@@ -286,7 +284,7 @@ Useful links:
   * [How to build a CLI with Node.js](https://www.twilio.com/blog/how-to-build-a-cli-with-node-js).
   * How to access Google Spreadsheets with Node.js: [article 1](https://blog.stephsmith.io/tutorial-google-sheets-api-node-js/), [article 2](https://cmichel.io/how-to-access-google-spreadsheet-with-node/).
   * [A Guide to Node.js logging](https://www.twilio.com/blog/guide-node-js-logging).
-  * [Understanding npm link](https://fhinkel.rocks/2018/10/25/Understanding-npm-link/).
+  * [Understanding npm link](https://medium.com/dailyjs/how-to-use-npm-link-7375b6219557).
   * [Monorepos and npm](https://blog.npmjs.org/post/186494959890/monorepos-and-npm).
   * [JavaScript modules](https://v8.dev/features/modules).
   * [Types of test unreliability](https://www.youtube.com/watch?v=TKDMya4bznw) - informative 30 min video with code examples by Rich Trott.
