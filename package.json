@@ -32,7 +32,7 @@
   "author": "Dmytro Shpakovskyi",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^8.52.0",
-    "img-link-checker": "^1.0.4"
+    "eslint": "^8.56.0",
+    "img-link-checker": "^1.1.0"
   }
 }
