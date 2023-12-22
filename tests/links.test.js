@@ -1,3 +1,3 @@
 const { checkFile } = require('img-link-checker');
 
-checkFile('./README.md');
+checkFile('./README.md', ['https://twitter.com/mpjme']);
