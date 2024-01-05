@@ -255,8 +255,10 @@ directly from the command line.
 
 * [Mantis](https://www.mantisbt.org/download.php): initial release date: **Nov 6, 2008**, written in: **PHP**. Mantis Bug Tracker is a free and open source, web-based bug tracking system. The most common use of MantisBT is to track software defects. However, MantisBT is often configured by users to serve as a more generic issue tracking system and project management tool.
 
+* [Jira](https://www.atlassian.com/software/jira): initial release date: **2002**, written in: **Java**. Jira used to be an open source tool, but then became a commercial product developed by Atlassian for issue tracking and agile project management. The name Jira comes from Godjira or Japanese for Godzilla. Jira is used by a large number of companies globally for project, time, requirements, task, bug, change, code, test, release and sprint management.
+
 Useful links:
-* [Scrum, Kanban, and ScrumBan: What’s the Difference?](https://blog.gurock.com/scrum-kanban-scrumban/).
+* [Scrum, Kanban, and ScrumBan: What’s the Difference](https://blog.gurock.com/scrum-kanban-scrumban/).
 
 ## Node.js
   Useful links:
