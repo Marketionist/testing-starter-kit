@@ -115,6 +115,9 @@ Testing and Automation. It allows testing Chromium, Firefox and WebKit with a
 single API. Playwright is built to enable cross-browser web automation that is
 ever-green, capable, reliable and fast.
 
+  Useful links:
+  * [Playwright tips that will make your life easier](https://www.summerbud.org/dev-notes/playwright-tips-that-will-make-your-life-easier).
+
 
 Useful links:
 * [The Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) which have a high probability of causing issues when used as user-input data.
