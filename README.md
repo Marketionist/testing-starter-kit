@@ -117,6 +117,7 @@ ever-green, capable, reliable and fast.
 
   Useful links:
   * [Playwright tips that will make your life easier](https://www.summerbud.org/dev-notes/playwright-tips-that-will-make-your-life-easier).
+  * [Mastering the art of detecting and handling flaky tests in Playwright](https://ray.run/blog/detecting-and-handling-flaky-tests-in-playwright).
 
 
 Useful links:
