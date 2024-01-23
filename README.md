@@ -73,7 +73,7 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/download/): initial release date: **January 2001**, written in: **Java**. IntelliJ IDEA is a Java integrated development environment for developing computer software. It is developed by JetBrains and is available as an Apache 2 Licensed community edition and in a proprietary commercial edition. Both can be used for commercial development.
 
-* codepen.io: initial release date: **2012**. CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets, creatively named "pens", and test them.
+* [CodePen](https://codepen.io/): initial release date: **2012**. CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets, creatively named "pens", and test them.
 
 ## Automated Browser Testing (end-to-end)
 ![Testing pyramid by CircleCI](https://circleci.com/blog/media/Testing_pyramid.jpg "Testing pyramid")
