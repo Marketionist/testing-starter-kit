@@ -25,6 +25,7 @@ We love all the free things out there, but it would be good to keep it on topic.
   - WebdriverIO
   - Puppeteer
   - TestCafe
+  - Cypress
   - Playwright
 * [Unit Testing](#unit-testing):
   - Mocha
@@ -62,6 +63,7 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Bug Tracking and Task Management](#bug-tracking-and-task-management):
   - Redmine
   - Mantis
+  - Jira
 * [Node.js](#nodejs)
 * [Leadership in QA](#leadership-in-qa)
 * [Job Search](#job-search)
