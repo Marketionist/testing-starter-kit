@@ -25,6 +25,7 @@ We love all the free things out there, but it would be good to keep it on topic.
   - WebdriverIO
   - Puppeteer
   - TestCafe
+  - Cypress
   - Playwright
 * [Unit Testing](#unit-testing):
   - Mocha
@@ -62,6 +63,7 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Bug Tracking and Task Management](#bug-tracking-and-task-management):
   - Redmine
   - Mantis
+  - Jira
 * [Node.js](#nodejs)
 * [Leadership in QA](#leadership-in-qa)
 * [Job Search](#job-search)
@@ -109,6 +111,8 @@ We love all the free things out there, but it would be good to keep it on topic.
   * [Why TestCafe is better than Selenium](https://testcafe.io/documentation/402631/why-testcafe).
   * [Injecting cookies in your TestCafe automation](https://azevedorafaela.com/2019/07/24/inject-cookies-in-your-testcafe-automation/).
   * [Integrating TestCafe With TestRail](https://dev-tester.com/how-to-send-your-testcafe-test-results-to-testrail/).
+
+* [Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress): initial release date: **September 10, 2017**, written in: **JavaScript**. Cypress is a next generation front-end testing tool built for the modern web. It is most often compared to Selenium, however Cypress is both fundamentally and architecturally different. Cypress is not constrained by the same restrictions as Selenium. This enables you to write faster, easier and more reliable tests. At the same time Cypress has a set of [limitations/trade-offs](https://docs.cypress.io/guides/references/trade-offs).
 
 * [Playwright](https://playwright.dev/docs/intro): initial release date: **31 January, 2020**, written in: **JavaScript**. Playwright is a framework for Web
 Testing and Automation. It allows testing Chromium, Firefox and WebKit with a
