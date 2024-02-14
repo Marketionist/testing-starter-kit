@@ -87,6 +87,8 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 * [Protractor](https://www.protractortest.org/#/tutorial): initial release date: **Jun 12, 2013**, written in: **JavaScript**. Protractor is an end-to-end test framework for Angular and AngularJS applications (can be used for non-Angular websites too). Protractor runs tests against your application running in a real browser, interacting with it as a user would.
 
+  Note: the Angular team announced that Protractor was officially [sunsetted at the end of 2022](https://github.com/angular/protractor/issues/5502).
+
 * [Nightwatch]():
 
 * [WebdriverIO](https://webdriver.io/docs/gettingstarted.html): initial release date: **May 17, 2012**, written in: **JavaScript**. WebdriverIO is a test automation framework that allows you to run tests based on the Webdriver protocol and Appium automation technology. It provides support for your favorite BDD/TDD test framework and will run your tests locally or in the cloud using Sauce Labs, BrowserStack or TestingBot.
