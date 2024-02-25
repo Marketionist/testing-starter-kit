@@ -89,7 +89,7 @@ We love all the free things out there, but it would be good to keep it on topic.
 
   Note: the Angular team announced that Protractor was officially [sunsetted at the end of 2022](https://github.com/angular/protractor/issues/5502).
 
-* [Nightwatch]():
+* [Nightwatch](https://nightwatchjs.org/guide/quickstarts/create-and-run-a-nightwatch-test.html): initial release date: **January, 2014**, written in: **JavaScript**. Nightwatch was created as a tool to enable writing of automated UI tests in a straightforward way with as little configuration and additional libraries as possible.
 
 * [WebdriverIO](https://webdriver.io/docs/gettingstarted.html): initial release date: **May 17, 2012**, written in: **JavaScript**. WebdriverIO is a test automation framework that allows you to run tests based on the Webdriver protocol and Appium automation technology. It provides support for your favorite BDD/TDD test framework and will run your tests locally or in the cloud using Sauce Labs, BrowserStack or TestingBot.
 
@@ -223,12 +223,12 @@ directly from the command line.
   Useful links:
   * [Git workflow guidelines](https://github.com/elsewhencode/project-guidelines) with easy and clear instructions on "What to do" and explanations on "Why to do it this way".
   * [Removing sensitive data from a repository](https://help.github.com/articles/removing-sensitive-data-from-a-repository/).
-  * Markdown is a lightweight markup language used all over Github for documentation and instructions (for example `README.md` files). Here is a good [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+  * Markdown is a lightweight markup language used all over GitHub for documentation and instructions (for example `README.md` files). Here is a good [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## Continuous Integration (CI / CD)
 * [Jenkins](https://jenkins.io/download/): initial release date: **February 2, 2011**, written in: **Java**. Jenkins is commonly used for: building projects, running tests to detect bugs and other issues as soon as they are introduced, static code analysis, deployment, execute repetitive tasks, save time, and optimize your development process. It usually has to be installed on your servers / machines.
 
-* [Travis](https://docs.travis-ci.com/user/tutorial/): initial release date: **November, 2010**, written in: **Ruby**. Travis is famous for: quick setup (just add `.travis.yml` configuration file, login with Github, tell Travis CI to test a project and then push to Github), live build views, pull request support, pre-installed database services, auto deployments on passing builds, clean VMs for every build, etc. With Travis CI testing your open source projects will always be free! It does not need to be installed on your servers / machines, it just needs to be enabled for your Github repository.
+* [Travis](https://docs.travis-ci.com/user/tutorial/): initial release date: **November, 2010**, written in: **Ruby**. Travis is famous for: quick setup (just add `.travis.yml` configuration file, login with Github, tell Travis CI to test a project and then push to Github), live build views, pull request support, pre-installed database services, auto deployments on passing builds, clean VMs for every build, etc. With Travis CI testing your open source projects will always be free! It does not need to be installed on your servers / machines, it just needs to be enabled for your GitHub repository.
 
 * [GitLab](https://about.gitlab.com/install/): initial release date: **October, 2011**, written in: **Ruby, Go, JavaScript**. GitLab is a web-based Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features. It usually has to be installed on your servers / machines.
 
