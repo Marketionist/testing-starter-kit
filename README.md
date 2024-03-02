@@ -83,13 +83,13 @@ We love all the free things out there, but it would be good to keep it on topic.
   * [Selenium IDE](https://www.seleniumhq.org/projects/ide/): is more simple and fast way to create automated testing scripts by clicking and recording your actions with record-and-playback Firefox add-on. It is mostly used to create simple scripts to aid in automation-aided exploratory testing. It requires some knowledge of HTML.
   * [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver/): is more sophisticated and powerful tool to create robust, browser-based regression automation suites and tests. It requires some knowledge of programming languages - can be used [one of the following](https://github.com/SeleniumHQ/selenium#documentation): Java, JavaScript, Python, Ruby, C#.
 
-* [RSpec](https://github.com/rspec/rspec#install): initial release date: **August 2005**, written in: **Ruby**. RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications. It utilizes easy-to-read syntax (`describe`, `it`). Here is a [free, once-weekly e-mail](http://elementalselenium.com/) on how to use Selenium with RSpec (also see the [full archive of useful tips](http://elementalselenium.com/tips)).
+* [RSpec](https://github.com/rspec/rspec-metagem#install): initial release date: **August 2005**, written in: **Ruby**. RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications. It utilizes easy-to-read syntax (`describe`, `it`). Here is a [free, once-weekly e-mail](http://elementalselenium.com/) on how to use Selenium with RSpec (also see the [full archive of useful tips](http://elementalselenium.com/tips)).
 
 * [Protractor](https://www.protractortest.org/#/tutorial): initial release date: **Jun 12, 2013**, written in: **JavaScript**. Protractor is an end-to-end test framework for Angular and AngularJS applications (can be used for non-Angular websites too). Protractor runs tests against your application running in a real browser, interacting with it as a user would.
 
   Note: the Angular team announced that Protractor was officially [sunsetted at the end of 2022](https://github.com/angular/protractor/issues/5502).
 
-* [Nightwatch]():
+* [Nightwatch](https://nightwatchjs.org/guide/quickstarts/create-and-run-a-nightwatch-test.html): initial release date: **January, 2014**, written in: **JavaScript**. Nightwatch was created as a tool to enable writing of automated UI tests in a straightforward way with as little configuration and additional libraries as possible.
 
 * [WebdriverIO](https://webdriver.io/docs/gettingstarted.html): initial release date: **May 17, 2012**, written in: **JavaScript**. WebdriverIO is a test automation framework that allows you to run tests based on the Webdriver protocol and Appium automation technology. It provides support for your favorite BDD/TDD test framework and will run your tests locally or in the cloud using Sauce Labs, BrowserStack or TestingBot.
 
@@ -223,12 +223,12 @@ directly from the command line.
   Useful links:
   * [Git workflow guidelines](https://github.com/elsewhencode/project-guidelines) with easy and clear instructions on "What to do" and explanations on "Why to do it this way".
   * [Removing sensitive data from a repository](https://help.github.com/articles/removing-sensitive-data-from-a-repository/).
-  * Markdown is a lightweight markup language used all over Github for documentation and instructions (for example `README.md` files). Here is a good [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+  * Markdown is a lightweight markup language used all over GitHub for documentation and instructions (for example `README.md` files). Here is a good [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## Continuous Integration (CI / CD)
 * [Jenkins](https://jenkins.io/download/): initial release date: **February 2, 2011**, written in: **Java**. Jenkins is commonly used for: building projects, running tests to detect bugs and other issues as soon as they are introduced, static code analysis, deployment, execute repetitive tasks, save time, and optimize your development process. It usually has to be installed on your servers / machines.
 
-* [Travis](https://docs.travis-ci.com/user/tutorial/): initial release date: **November, 2010**, written in: **Ruby**. Travis is famous for: quick setup (just add `.travis.yml` configuration file, login with Github, tell Travis CI to test a project and then push to Github), live build views, pull request support, pre-installed database services, auto deployments on passing builds, clean VMs for every build, etc. With Travis CI testing your open source projects will always be free! It does not need to be installed on your servers / machines, it just needs to be enabled for your Github repository.
+* [Travis](https://docs.travis-ci.com/user/tutorial/): initial release date: **November, 2010**, written in: **Ruby**. Travis is famous for: quick setup (just add `.travis.yml` configuration file, login with Github, tell Travis CI to test a project and then push to Github), live build views, pull request support, pre-installed database services, auto deployments on passing builds, clean VMs for every build, etc. With Travis CI testing your open source projects will always be free! It does not need to be installed on your servers / machines, it just needs to be enabled for your GitHub repository.
 
 * [GitLab](https://about.gitlab.com/install/): initial release date: **October, 2011**, written in: **Ruby, Go, JavaScript**. GitLab is a web-based Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features. It usually has to be installed on your servers / machines.
 
