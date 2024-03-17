@@ -167,7 +167,7 @@ Useful links:
   Useful links:
   * [Building a Load Test with Tsung for a Login and Post Session with dynamic url-encoded variables](https://www.innoq.com/en/blog/building-a-load-test-with-tsung/).
 
-* [Gatling]():
+* [Gatling](https://docs.gatling.io/tutorials/scripting-intro/): initial release date: **January 13, 2012**, written in: **Scala**. Gatling is a highly capable load testing tool designed for ease of use, maintainability and high performance.
 
 * [Artillery](https://artillery.io/docs/guides/getting-started/installing-artillery.html): initial release date: **November 17, 2015**, written in: **JavaScript**. Artillery is a modern, powerful, easy-to-use load-testing toolkit. Artillery has a strong focus on developer happiness & ease of use, and a batteries-included philosophy. Our goal is to help developers build faster, more resilient and more scalable applications.
 
