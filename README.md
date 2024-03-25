@@ -131,7 +131,7 @@ Useful links:
 * [The Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) which have a high probability of causing issues when used as user-input data.
 
 ## Unit Testing
-* [Mocha]():
+* [Mocha](https://mochajs.org/#installation): initial release date: **22 November 2011**, written in: **JavaScript**. Mocha is a feature-rich JavaScript test framework, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
 
 * [Chai]():
 
