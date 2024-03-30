@@ -133,7 +133,7 @@ Useful links:
 ## Unit Testing
 * [Mocha](https://mochajs.org/#installation): initial release date: **22 November 2011**, written in: **JavaScript**. Mocha is a feature-rich JavaScript test framework, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
 
-* [Chai]():
+* [Chai](https://www.chaijs.com/guide/installation/): initial release date: **January, 2014**, written in: **JavaScript**. Chai is a BDD / TDD assertion library that can be delightfully paired with any JavaScript testing framework. Chai has several interfaces that allow the developer to choose the most comfortable: the chain-capable BDD styles provide an expressive language & readable style, while the TDD assert style provides a more classical feel.
 
 * [Jasmine](https://github.com/jasmine/jasmine#installation): initial release date: **September 14, 2010**, written in: **JavaScript**. Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests with easy-to-read syntax (`describe`, `it`). It has built in assertion library and can be used as a testing framework both for unit tests and end-to-end tests.
 
