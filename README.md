@@ -6,9 +6,9 @@ This is a collection of free open source software testing tools with some links 
 
 The scope of this particular list is limited to things that QA Automation Engineers, Software Development Engineers in Test (SDET), Web Developers, etc. are likely to find useful.
 
-You can help by sending Pull Requests to add more tools and links to "how to use" instructions. Once I have a good set of links in this README file, I'll look into a better layout for the information and links.
+You can help by sending Pull Requests to add more tools and links to "how to use" instructions.
 
-We love all the free things out there, but it would be good to keep it on topic. It's a bit of a grey line sometimes so this is a bit opinionated.
+We love all the free things out there, but it would be good to keep it on topic. It's a bit of a grey line sometimes, so this is a bit opinionated.
 
 # Table of Contents
 
@@ -193,17 +193,17 @@ Useful links:
   2. Select the HTTP method on the left of the URL bar to send the request.
   3. Click on the "Send" button - Postman will then send the request to the application, retrieve any responses and display it in the lower window.
 
-Also Postman has a CLI collection runner - [Newman](https://github.com/postmanlabs/newman). It allows you to effortlessly run and test a Postman collection
-directly from the command line.
+  Also Postman has a CLI collection runner - [Newman](https://github.com/postmanlabs/newman). It allows you to effortlessly run and test a Postman collection
+  directly from the command line.
 
-  Useful links:
-  * [The Basics of Using Postman for API Testing](https://www.youtube.com/watch?v=t5n07Ybz7yI).
-  * [Writing tests in Postman](http://blog.getpostman.com/2017/10/25/writing-tests-in-postman/).
-  * [16 Postman assertions](http://thethinkingtester.blogspot.com/2019/07/one-request-sixteen-assertions.html).
-  * [Part 1: How to re-use code](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-2-5-d71ad0221d2a).
-  * [Part 2: Customizing Execution Order](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-3-5-67e3565dd069).
-  * [Part 3: Single collection pattern](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-4-5-ae8aaaac58f7).
-  * [Part 4: Easy assertions](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-6ac92c514750).
+    Useful links:
+    * [The Basics of Using Postman for API Testing](https://www.youtube.com/watch?v=t5n07Ybz7yI).
+    * [Writing tests in Postman](http://blog.getpostman.com/2017/10/25/writing-tests-in-postman/).
+    * [16 Postman assertions](http://thethinkingtester.blogspot.com/2019/07/one-request-sixteen-assertions.html).
+    * [Part 1: How to re-use code](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-2-5-d71ad0221d2a).
+    * [Part 2: Customizing Execution Order](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-3-5-67e3565dd069).
+    * [Part 3: Single collection pattern](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-4-5-ae8aaaac58f7).
+    * [Part 4: Easy assertions](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-6ac92c514750).
 
 * [Dredd](https://dredd.org/en/latest/installation.html): initial release date: **October 25, 2013**, written in: **JavaScript**. Dredd is a language-agnostic command-line tool for validating API description document against backend implementation of the API. Dredd reads your API description and step by step validates whether your API implementation replies with responses as they are described in the documentation.
 
