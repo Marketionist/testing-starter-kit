@@ -27,6 +27,11 @@ We love all the free things out there, but it would be good to keep it on topic.
   - TestCafe
   - Cypress
   - Playwright
+* [API Testing](#api-testing):
+  - cURL
+  - Dredd
+  - Postman
+  - Pactum
 * [Unit Testing](#unit-testing):
   - Mocha
   - Chai
@@ -41,11 +46,6 @@ We love all the free things out there, but it would be good to keep it on topic.
   - Artillery
   - k6
 * [Security Testing](#security-testing)
-* [API Testing](#api-testing):
-  - cURL
-  - Dredd
-  - Postman
-  - Pactum
 * [Linting and Code Quality](#linting-and-code-quality):
   - ESLint
 * [Version Control Systems (VCS)](#version-control-systems-vcs):
@@ -130,6 +130,38 @@ ever-green, capable, reliable and fast.
 Useful links:
 * [The Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) which have a high probability of causing issues when used as user-input data.
 
+## API Testing
+* [cURL](https://curl.haxx.se/download.html): initial release date: **1997**, written in: **C**. The name stands for "Client URL". cURL is providing a library and command-line toolfor transferring data using various protocols. Installing and using cURL on Mac OS:
+  * `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
+  * `brew install curl`
+  * `curl http://localhost:3000 # Server will receive a GET HTTP request`
+  * `curl -X POST http://localhost:3000 # Server will receive a POST HTTP request`
+  * `curl -X PUT http://localhost:3000 # Server will receive a PUT HTTP request`
+  * `curl -X DELETE http://localhost:3000 # Server will receive a DELETE HTTP request`
+
+* [Postman](https://www.getpostman.com/apps): initial release date: **February 19, 2016**, written in: **JavaScript**. Postman is a powerful API testing suite which has become a must-have tool for many developers. It has the ability to make various types of HTTP requests, i.e. GET, POST, PUT, PATCH. It is available for Windows, macOS, and Linux. To query an API endpoint, you’ll need to do the following steps:
+
+  1. Enter the URL that you want to query in the URL bar in the top section.
+  2. Select the HTTP method on the left of the URL bar to send the request.
+  3. Click on the "Send" button - Postman will then send the request to the application, retrieve any responses and display it in the lower window.
+
+  Also Postman has a CLI collection runner - [Newman](https://github.com/postmanlabs/newman). It allows you to effortlessly run and test a Postman collection
+  directly from the command line.
+
+    Useful links:
+    * [The Basics of Using Postman for API Testing](https://www.youtube.com/watch?v=t5n07Ybz7yI).
+    * [Writing tests in Postman](http://blog.getpostman.com/2017/10/25/writing-tests-in-postman/).
+    * [16 Postman assertions](http://thethinkingtester.blogspot.com/2019/07/one-request-sixteen-assertions.html).
+    * [Part 1: How to re-use code](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-2-5-d71ad0221d2a).
+    * [Part 2: Customizing Execution Order](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-3-5-67e3565dd069).
+    * [Part 3: Single collection pattern](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-4-5-ae8aaaac58f7).
+    * [Part 4: Easy assertions](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-6ac92c514750).
+
+* [Dredd](https://dredd.org/en/latest/installation.html): initial release date: **October 25, 2013**, written in: **JavaScript**. Dredd is a language-agnostic command-line tool for validating API description document against backend implementation of the API. Dredd reads your API description and step by step validates whether your API implementation replies with responses as they are described in the documentation.
+
+  Useful links:
+  * [Testing your API with Dredd](https://medium.com/mop-developers/testing-your-api-with-dredd-c02e6ca151f2)
+
 ## Unit Testing
 * [Mocha](https://mochajs.org/#installation): initial release date: **22 November 2011**, written in: **JavaScript**. Mocha is a feature-rich JavaScript test framework, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
 
@@ -177,38 +209,6 @@ Useful links:
   Useful links:
   * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
   * [Node Security: Fixing OWASP Top 10](https://github.com/OWASP/NodeGoat).
-
-## API Testing
-* [cURL](https://curl.haxx.se/download.html): initial release date: **1997**, written in: **C**. The name stands for "Client URL". cURL is providing a library and command-line toolfor transferring data using various protocols. Installing and using cURL on Mac OS:
-  * `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
-  * `brew install curl`
-  * `curl http://localhost:3000 # Server will receive a GET HTTP request`
-  * `curl -X POST http://localhost:3000 # Server will receive a POST HTTP request`
-  * `curl -X PUT http://localhost:3000 # Server will receive a PUT HTTP request`
-  * `curl -X DELETE http://localhost:3000 # Server will receive a DELETE HTTP request`
-
-* [Postman](https://www.getpostman.com/apps): initial release date: **February 19, 2016**, written in: **JavaScript**. Postman is a powerful API testing suite which has become a must-have tool for many developers. It has the ability to make various types of HTTP requests, i.e. GET, POST, PUT, PATCH. It is available for Windows, macOS, and Linux. To query an API endpoint, you’ll need to do the following steps:
-
-  1. Enter the URL that you want to query in the URL bar in the top section.
-  2. Select the HTTP method on the left of the URL bar to send the request.
-  3. Click on the "Send" button - Postman will then send the request to the application, retrieve any responses and display it in the lower window.
-
-  Also Postman has a CLI collection runner - [Newman](https://github.com/postmanlabs/newman). It allows you to effortlessly run and test a Postman collection
-  directly from the command line.
-
-    Useful links:
-    * [The Basics of Using Postman for API Testing](https://www.youtube.com/watch?v=t5n07Ybz7yI).
-    * [Writing tests in Postman](http://blog.getpostman.com/2017/10/25/writing-tests-in-postman/).
-    * [16 Postman assertions](http://thethinkingtester.blogspot.com/2019/07/one-request-sixteen-assertions.html).
-    * [Part 1: How to re-use code](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-2-5-d71ad0221d2a).
-    * [Part 2: Customizing Execution Order](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-3-5-67e3565dd069).
-    * [Part 3: Single collection pattern](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-4-5-ae8aaaac58f7).
-    * [Part 4: Easy assertions](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-6ac92c514750).
-
-* [Dredd](https://dredd.org/en/latest/installation.html): initial release date: **October 25, 2013**, written in: **JavaScript**. Dredd is a language-agnostic command-line tool for validating API description document against backend implementation of the API. Dredd reads your API description and step by step validates whether your API implementation replies with responses as they are described in the documentation.
-
-  Useful links:
-  * [Testing your API with Dredd](https://medium.com/mop-developers/testing-your-api-with-dredd-c02e6ca151f2)
 
 ## Linting and Code Quality
 * [ESLint](https://eslint.org/): initial release date: **June 30, 2013**, written in: **JavaScript**. ESLint a pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
