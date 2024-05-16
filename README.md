@@ -46,6 +46,7 @@ We love all the free things out there, but it would be good to keep it on topic.
   - Artillery
   - k6
 * [Security Testing](#security-testing)
+* [Command Line Tools](#command-line-tools)
 * [Linting and Code Quality](#linting-and-code-quality):
   - ESLint
 * [Version Control Systems (VCS)](#version-control-systems-vcs):
@@ -209,6 +210,10 @@ Useful links:
   Useful links:
   * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
   * [Node Security: Fixing OWASP Top 10](https://github.com/OWASP/NodeGoat).
+
+## Command Line Tools
+  Useful links:
+  * [How to run command line commands in your script, application or library with Execa](https://medium.com/@ehmicky/execa-9-release-d0d5daaa097f).
 
 ## Linting and Code Quality
 * [ESLint](https://eslint.org/): initial release date: **June 30, 2013**, written in: **JavaScript**. ESLint a pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
