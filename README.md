@@ -46,7 +46,8 @@ We love all the free things out there, but it would be good to keep it on topic.
   - Artillery
   - k6
 * [Security Testing](#security-testing)
-* [Command Line Tools](#command-line-tools)
+* [Command Line Tools (CLI)](#command-line-tools-cli):
+  - Grep
 * [Linting and Code Quality](#linting-and-code-quality):
   - ESLint
 * [Version Control Systems (VCS)](#version-control-systems-vcs):
@@ -59,8 +60,6 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Containerization Tools](#containerization-tools):
   - Docker
   - Kubernetes
-* [Command Line Tools (CLI)](#command-line-tools-cli):
-  - Grep
 * [Bug Tracking and Task Management](#bug-tracking-and-task-management):
   - Redmine
   - Mantis
@@ -211,9 +210,14 @@ Useful links:
   * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
   * [Node Security: Fixing OWASP Top 10](https://github.com/OWASP/NodeGoat).
 
-## Command Line Tools
+## Command Line Tools (CLI)
+* [Grep](https://www.gnu.org/savannah-checkouts/gnu/grep/manual/grep.html): initial release date: **November, 1974**, written in: **PDP-11 assembly**. Grep is a command-line utility for searching plain-text data sets for lines that match a regular expression. Its name comes from g/re/p (globally search a regular expression and print), which has the same effect: doing a global search with the regular expression and printing all matching lines.
+
   Useful links:
-  * [How to run command line commands in your script, application or library with Execa](https://medium.com/@ehmicky/execa-9-release-d0d5daaa097f).
+  * [Manipulating text at the command line with grep](https://www.redhat.com/sysadmin/manipulating-text-grep).
+
+Useful links:
+* [How to run command line commands in your script, application or library with Execa](https://medium.com/@ehmicky/execa-9-release-d0d5daaa097f).
 
 ## Linting and Code Quality
 * [ESLint](https://eslint.org/): initial release date: **June 30, 2013**, written in: **JavaScript**. ESLint a pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
@@ -257,12 +261,6 @@ Useful links:
 
   Useful links:
   * [Kubernetes Production Patterns and Anti-Patterns](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
-
-## Command Line Tools (CLI)
-* [Grep](https://www.gnu.org/savannah-checkouts/gnu/grep/manual/grep.html): initial release date: **November, 1974**, written in: **PDP-11 assembly**. Grep is a command-line utility for searching plain-text data sets for lines that match a regular expression. Its name comes from g/re/p (globally search a regular expression and print), which has the same effect: doing a global search with the regular expression and printing all matching lines.
-
-  Useful links:
-  * [Manipulating text at the command line with grep](https://www.redhat.com/sysadmin/manipulating-text-grep).
 
 * [AWK](https://www.gnu.org/software/gawk/manual/gawk.html): initial release date: **1977**, written in: **C**. AWK is a scripting language used for manipulating data and generating reports.The awk command programming language requires no compiling, and allows the user to use variables, numeric functions, string functions, and logical operators.
 
