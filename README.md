@@ -215,6 +215,7 @@ Useful links:
 
   Useful links:
   * [Manipulating text at the command line with grep](https://www.redhat.com/sysadmin/manipulating-text-grep).
+  * [Visualize regular expressions as a diagram](https://regexper.com/).
 
 Useful links:
 * [How to run command line commands in your script, application or library with Execa](https://medium.com/@ehmicky/execa-9-release-d0d5daaa097f).
