@@ -316,6 +316,7 @@ Useful links:
   * [Leading quality in software organizations](https://lisacrispin.com/2023/10/31/leading-quality-in-agile-software-organizations/).
   * [The impact of your conversation style on your team](https://mysoftwarequality.wordpress.com/2019/07/22/leaders-do-you-understand-the-impact-of-your-conversation-style-on-your-team/).
   * [One key metric should drive quality engineering](http://www.qarevolution.com/one-key-metric-should-drive-quality-engineering/).
+  * [Effective 1 on 1 meetings (1:1, 1 to 1, 121 meetings)](https://www.youtube.com/watch?v=rnjjoIz0iEM).
   * [What you should really measure in your annual performance reviews (and why)](https://www.atlassian.com/blog/hr-teams/our-performance-reviews-framework).
   * [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/).
   * [Emotional intelligence: 7 essential tips for leaders](https://enterprisersproject.com/article/2019/12/emotional-intelligence-7-tips).
