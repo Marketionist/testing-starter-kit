@@ -318,14 +318,14 @@ Useful links:
   * [One key metric should drive quality engineering](http://www.qarevolution.com/one-key-metric-should-drive-quality-engineering/).
   * [Effective 1 on 1 meetings (1:1, 1 to 1, 121 meetings)](https://www.youtube.com/watch?v=rnjjoIz0iEM).
   * [What you should really measure in your annual performance reviews (and why)](https://www.atlassian.com/blog/hr-teams/our-performance-reviews-framework).
-  * [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/).
+  * [5 steps to get your next promotion at work](https://www.youtube.com/watch?v=bQV58TZW6hQ)!
+  * [How to make good code reviews better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/).
   * [Emotional intelligence: 7 essential tips for leaders](https://enterprisersproject.com/article/2019/12/emotional-intelligence-7-tips).
   * [IT burnout](https://www.redhat.com/sysadmin/it-burnout).
-  * [Job interviews: how to spot toxic management](https://www.welcometothejungle.com/en/articles/job-interviews-how-to-spot-toxic-management).
-  * [The Joys of Managing Engineering Teams by Maryam Umar](https://www.youtube.com/watch?v=64Mzvjls8mU).
+  * [The joys of managing engineering teams by Maryam Umar](https://www.youtube.com/watch?v=64Mzvjls8mU).
   * [Being successfull as a team glue](https://www.slideshare.net/TanyaReilly/being-glue).
-  * [An Introvert's Guide to being a Mentor - with a plan](https://dev.to/geekgalgroks/an-introvert-s-guide-to-being-a-mentor-39nh).
-  * [How to Mentor Someone Who Doesn’t Know What Their Career Goals Should Be](https://hbr.org/2018/07/how-to-mentor-someone-who-doesnt-know-what-their-career-goals-should-be?autocomplete=true).
+  * [An introvert's guide to being a mentor - with a plan](https://dev.to/geekgalgroks/an-introvert-s-guide-to-being-a-mentor-39nh).
+  * [How to mentor someone who doesn’t know what their career goals should be](https://hbr.org/2018/07/how-to-mentor-someone-who-doesnt-know-what-their-career-goals-should-be?autocomplete=true).
  * [How to be a sponsor when you're a developer](https://larahogan.me/blog/how-be-sponsor-when-youre-developer).
  * [Getting mentors](https://chelseatroy.com/2019/03/21/leveling-up-skill-19-getting-mentors/).
  * [Difference between mentorship and sponsorship](https://chelseatroy.com/2019/04/02/leveling-up-20th-post-corollary-mentors-and-sponsors/).
@@ -334,6 +334,7 @@ Useful links:
 ## Job Search
   * [Tips on writing good resumes](https://medium.com/hackernoon/on-r%C3%A9sum%C3%A9s-and-applying-to-jobs-4c8cfcc7bf26).
   * [How to advance your career by contributing to open source projects](https://opensource.com/article/19/5/how-get-job-doing-open-source).
+  * [Job interviews: how to spot toxic management](https://www.welcometothejungle.com/en/articles/job-interviews-how-to-spot-toxic-management).
   * [A curated list of established remote/distributed/virtual tech companies](https://github.com/yanirs/established-remote).
 
 # Thanks
