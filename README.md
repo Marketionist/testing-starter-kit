@@ -124,7 +124,7 @@ ever-green, capable, reliable and fast.
   Useful links:
   * [The complete Playwright cheatsheet](https://proxiesapi.com/articles/the-complete-playwright-cheatsheet).
   * [Playwright tips that will make your life easier](https://www.summerbud.org/dev-notes/playwright-tips-that-will-make-your-life-easier).
-  * [Mastering the art of detecting and handling flaky tests in Playwright](https://ray.run/blog/detecting-and-handling-flaky-tests-in-playwright).
+  * [How to avoid flaky tests in Playwright](https://semaphoreci.com/blog/flaky-tests-playwright).
 
 
 Useful links:
