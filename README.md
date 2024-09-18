@@ -4,7 +4,7 @@ QA Engineers and Developers now have a wide variety of free open source tools fo
 
 This is a collection of free open source software testing tools with some links on how to use them.
 
-The scope of this particular list is limited to things that QA Automation Engineers, Software Development Engineers in Test (SDET), Web Developers, etc. are likely to find useful.
+The scope of this particular list is limited to things that Test Automation Engineers, Software Development Engineers in Test (SDET), Web Developers, etc. are likely to find useful.
 
 You can help by sending Pull Requests to add more tools and links to "how to use" instructions.
 
@@ -319,6 +319,8 @@ Useful links:
   * [Effective 1 on 1 meetings (1:1, 1 to 1, 121 meetings)](https://www.youtube.com/watch?v=rnjjoIz0iEM).
   * [What you should really measure in your annual performance reviews (and why)](https://www.atlassian.com/blog/hr-teams/our-performance-reviews-framework).
   * [5 steps to get your next promotion at work](https://www.youtube.com/watch?v=bQV58TZW6hQ)!
+  * [How to ask for a job promotion](https://www.youtube.com/watch?v=swgXm8Wrts8).
+  * [How to ask for a raise during your performance review](https://www.youtube.com/watch?v=XGkoLdoqhak).
   * [How to make good code reviews better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/).
   * [Emotional intelligence: 7 essential tips for leaders](https://enterprisersproject.com/article/2019/12/emotional-intelligence-7-tips).
   * [IT burnout](https://www.redhat.com/sysadmin/it-burnout).
