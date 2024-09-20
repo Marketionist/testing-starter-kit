@@ -332,6 +332,7 @@ Useful links:
  * [Getting mentors](https://chelseatroy.com/2019/03/21/leveling-up-skill-19-getting-mentors/).
  * [Difference between mentorship and sponsorship](https://chelseatroy.com/2019/04/02/leveling-up-20th-post-corollary-mentors-and-sponsors/).
  * [Maybe getting rid of your QA team was bad, actually](https://davidkcaudill.medium.com/maybe-getting-rid-of-your-qa-team-was-bad-actually-52c408bd048b).
+ * [Essential tips on how to set boundaries at work](https://www.youtube.com/watch?v=kXp9HdzJatE).
 
 ## Job Search
   * [Tips on writing good resumes](https://medium.com/hackernoon/on-r%C3%A9sum%C3%A9s-and-applying-to-jobs-4c8cfcc7bf26).
