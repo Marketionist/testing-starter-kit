@@ -8,7 +8,9 @@ const { checkFile } = require('img-link-checker');
             'https://twitter.com/mpjme',
             'https://codepen.io/',
             'https://stackoverflow.com/questions/19389131/how-to-do-multiple-user-logins-with-different-inputs-in-jmeter',
-            'https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial'
+            'https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial',
+            'https://www.gnu.org/savannah-checkouts/gnu/grep/manual/grep.html',
+            'https://www.gnu.org/software/gawk/manual/gawk.html'
         ]
         /* eslint-enable max-len */
     );
