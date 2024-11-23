@@ -48,6 +48,7 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Security Testing](#security-testing)
 * [Command Line Tools (CLI)](#command-line-tools-cli):
   - Grep
+  - AWK
 * [Linting and Code Quality](#linting-and-code-quality):
   - ESLint
 * [Version Control Systems (VCS)](#version-control-systems-vcs):
@@ -217,6 +218,8 @@ Useful links:
   * [Manipulating text at the command line with grep](https://www.redhat.com/sysadmin/manipulating-text-grep).
   * [Visualize regular expressions as a diagram](https://regexper.com/).
 
+* [AWK](https://www.gnu.org/software/gawk/manual/gawk.html): initial release date: **1977**, written in: **C**. AWK is a scripting language used for manipulating data and generating reports.The awk command programming language requires no compiling, and allows the user to use variables, numeric functions, string functions, and logical operators.
+
 Useful links:
 * [How to run command line commands in your script, application or library with Execa](https://medium.com/@ehmicky/execa-9-release-d0d5daaa097f).
 
@@ -262,8 +265,6 @@ Useful links:
 
   Useful links:
   * [Kubernetes Production Patterns and Anti-Patterns](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
-
-* [AWK](https://www.gnu.org/software/gawk/manual/gawk.html): initial release date: **1977**, written in: **C**. AWK is a scripting language used for manipulating data and generating reports.The awk command programming language requires no compiling, and allows the user to use variables, numeric functions, string functions, and logical operators.
 
 ## Bug Tracking and Task Management
 * [Redmine](http://www.redmine.org/projects/redmine/wiki/Download): initial release date: **June 25, 2006**, written in: **Ruby**. Redmine is a free and open source, web-based project management and issue tracking tool. It allows users to manage multiple projects and associated subprojects. It features per project wikis and forums, time tracking, and flexible, role-based access control.
