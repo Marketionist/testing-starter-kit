@@ -12,6 +12,7 @@ We love all the free things out there, but it would be good to keep it on topic.
 
 # Table of Contents
 
+* [How to Learn](#how-to-learn)
 * [Code Editors and IDE](#code-editors-and-ide):
   - VS Code
   - Sublime Text
@@ -68,6 +69,9 @@ We love all the free things out there, but it would be good to keep it on topic.
 * [Node.js](#nodejs)
 * [Leadership in QA](#leadership-in-qa)
 * [Job Search](#job-search)
+
+## How to Learn
+* [Fast onboarding advices from a Principal at Amazon](https://www.youtube.com/watch?v=eawHgYNFn3Q).
 
 ## Code Editors and IDE
 * [VS Code](https://code.visualstudio.com/Download): initial release date: **April 29, 2015**, written in: **TypeScript, JavaScript, Cascading Style Sheets (CSS)**. Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets and code refactoring. Plugins and extensions for it can be written in JavaScript ([a lot of them](https://code.visualstudio.com/docs/editor/extension-gallery) are built and maintained by community).
