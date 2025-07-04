@@ -24,7 +24,8 @@ const { checkFile } = require('img-link-checker');
             'https://medium.com/dailyjs/how-to-use-npm-link-7375b6219557',
             'https://medium.com/hackernoon/on-r%C3%A9sum%C3%A9s-and-applying-to-jobs-4c8cfcc7bf26',
             'https://davidkcaudill.medium.com/maybe-getting-rid-of-your-qa-team-was-bad-actually-52c408bd048b',
-            'http://www.qarevolution.com/one-key-metric-should-drive-quality-engineering/'
+            'http://www.qarevolution.com/one-key-metric-should-drive-quality-engineering/',
+            'https://www.welcometothejungle.com/en/articles/job-interviews-how-to-spot-toxic-management'
         ]
         /* eslint-enable max-len */
     );
