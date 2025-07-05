@@ -104,7 +104,8 @@ We love all the free things out there, but it would be good to keep it on topic.
   * [Front-end Testing with Kevin](https://www.youtube.com/user/medigerati/videos?flow=grid&sort=p&view=0) - a collection of WebdriverIO tutorial videos.
   * [A look at the browser.execute command](https://www.youtube.com/watch?v=GpXKmVL17Tc).
 
-* [Puppeteer](https://pptr.dev/): initial release date: **August 16, 2017**, written in: **JavaScript**. Puppeteer is a Node.js library maintained by Chrome's development team from Google. Puppeteer provides a high-level API to control Chrome or Chromium (by default headless, but can be [configured to run full non-headless](https://github.com/puppeteer/puppeteer/blob/main/docs/api/puppeteer.browserlaunchargumentoptions.md) Chrome or Chromium) or interact with the DevTools protocol.
+* [Puppeteer](https://pptr.dev/): initial release date: **August 16, 2017**, written in: **JavaScript**. Puppeteer is a Node.js library maintained by Chrome's development team from Google. Puppeteer provides a high-level API to control Chrome or Chromium (by default headless, but can be configured to run full non-headless Chrome or
+Chromium) or interact with the DevTools protocol.
 
   Useful links:
   * [Web Scraping with a Headless Browser: A Puppeteer Tutorial](https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial).
@@ -155,7 +156,6 @@ Useful links:
 
     Useful links:
     * [The Basics of Using Postman for API Testing](https://www.youtube.com/watch?v=t5n07Ybz7yI).
-    * [Writing tests in Postman](http://blog.getpostman.com/2017/10/25/writing-tests-in-postman/).
     * [16 Postman assertions](http://thethinkingtester.blogspot.com/2019/07/one-request-sixteen-assertions.html).
     * [Part 1: How to re-use code](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-2-5-d71ad0221d2a).
     * [Part 2: Customizing Execution Order](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-3-5-67e3565dd069).
@@ -302,7 +302,7 @@ Useful links:
     - [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA);
     - [Factory Functions in JavaScript](https://www.youtube.com/watch?v=ImwrezYhw4w).
   * [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs).
-  * [7 Methods for Working with Directories in Node.js](https://coderrocketfuel.com/article/7-methods-for-working-with-directories-in-node-js).
+  * [Methods for Working with Directories in Node.js](https://exploringjs.com/nodejs-shell-scripting/ch_nodejs-path.html).
   * [How to build a CLI with Node.js](https://www.twilio.com/blog/how-to-build-a-cli-with-node-js).
   * How to access Google Spreadsheets with Node.js: [article 1](https://blog.stephsmith.io/tutorial-google-sheets-api-node-js/), [article 2](https://cmichel.io/how-to-access-google-spreadsheet-with-node/).
   * [A Guide to Node.js logging](https://www.twilio.com/blog/guide-node-js-logging).
@@ -326,6 +326,7 @@ Useful links:
   * [5 steps to get your next promotion at work](https://www.youtube.com/watch?v=bQV58TZW6hQ)!
   * [How to ask for a job promotion](https://www.youtube.com/watch?v=swgXm8Wrts8).
   * [How to ask for a raise during your performance review](https://www.youtube.com/watch?v=XGkoLdoqhak).
+  * [How to get promoted in tech](https://www.youtube.com/watch?v=k65UW0gjsgU).
   * [How to make good code reviews better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/).
   * [Emotional intelligence: 7 essential tips for leaders](https://enterprisersproject.com/article/2019/12/emotional-intelligence-7-tips).
   * [IT burnout](https://www.redhat.com/sysadmin/it-burnout).
