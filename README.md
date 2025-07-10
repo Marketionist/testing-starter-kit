@@ -326,7 +326,10 @@ Useful links:
   * [5 steps to get your next promotion at work](https://www.youtube.com/watch?v=bQV58TZW6hQ)!
   * [How to ask for a job promotion](https://www.youtube.com/watch?v=swgXm8Wrts8).
   * [How to ask for a raise during your performance review](https://www.youtube.com/watch?v=XGkoLdoqhak).
-  * [How to get promoted in tech](https://www.youtube.com/watch?v=k65UW0gjsgU).
+  * Advices from Principal Engineer at Amazon:
+    - [How to get promoted in tech](https://www.youtube.com/watch?v=k65UW0gjsgU).;
+    - [How to be promoted FAST](https://www.youtube.com/watch?v=kpK1YHq2iUg);
+    - [Amazon Principal advice on how to grow people](https://www.youtube.com/watch?v=uUKAVfIahCY);
   * [How to make good code reviews better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/).
   * [Emotional intelligence: 7 essential tips for leaders](https://enterprisersproject.com/article/2019/12/emotional-intelligence-7-tips).
   * [IT burnout](https://www.redhat.com/sysadmin/it-burnout).
