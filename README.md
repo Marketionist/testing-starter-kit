@@ -321,13 +321,12 @@ Useful links:
   * [Leading quality in software organizations](https://lisacrispin.com/2023/10/31/leading-quality-in-agile-software-organizations/).
   * [The impact of your conversation style on your team](https://mysoftwarequality.wordpress.com/2019/07/22/leaders-do-you-understand-the-impact-of-your-conversation-style-on-your-team/).
   * [One key metric should drive quality engineering](http://www.qarevolution.com/one-key-metric-should-drive-quality-engineering/).
-  * [Effective 1 on 1 meetings (1:1, 1 to 1, 121 meetings)](https://www.youtube.com/watch?v=rnjjoIz0iEM).
   * [What you should really measure in your annual performance reviews (and why)](https://www.atlassian.com/blog/hr-teams/our-performance-reviews-framework).
   * [5 steps to get your next promotion at work](https://www.youtube.com/watch?v=bQV58TZW6hQ)!
   * [How to ask for a job promotion](https://www.youtube.com/watch?v=swgXm8Wrts8).
   * [How to ask for a raise during your performance review](https://www.youtube.com/watch?v=XGkoLdoqhak).
   * Advices from Principal Engineer at Amazon:
-    - [How to get promoted in tech](https://www.youtube.com/watch?v=k65UW0gjsgU).;
+    - [How to get promoted in tech](https://www.youtube.com/watch?v=k65UW0gjsgU);
     - [How to be promoted FAST](https://www.youtube.com/watch?v=kpK1YHq2iUg);
     - [Amazon Principal advice on how to grow people](https://www.youtube.com/watch?v=uUKAVfIahCY);
   * [How to make good code reviews better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/).
@@ -342,6 +341,8 @@ Useful links:
  * [Difference between mentorship and sponsorship](https://chelseatroy.com/2019/04/02/leveling-up-20th-post-corollary-mentors-and-sponsors/).
  * [Maybe getting rid of your QA team was bad, actually](https://davidkcaudill.medium.com/maybe-getting-rid-of-your-qa-team-was-bad-actually-52c408bd048b).
  * [Essential tips on how to set boundaries at work](https://www.youtube.com/watch?v=kXp9HdzJatE).
+ * [How to have impactful one-on-one (1:1) meetings](https://www.youtube.com/watch?v=ADWkkJtZna4).
+ * [Effective 1 on 1 meetings (1:1, 1 to 1, 121 meetings)](https://www.youtube.com/watch?v=rnjjoIz0iEM).
 
 ## Job Search
   * [Tips on writing good resumes](https://medium.com/hackernoon/on-r%C3%A9sum%C3%A9s-and-applying-to-jobs-4c8cfcc7bf26).
