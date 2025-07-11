@@ -327,7 +327,7 @@ Useful links:
   * [How to ask for a job promotion](https://www.youtube.com/watch?v=swgXm8Wrts8).
   * [How to ask for a raise during your performance review](https://www.youtube.com/watch?v=XGkoLdoqhak).
   * Advices from Principal Engineer at Amazon:
-    - [How to get promoted in tech](https://www.youtube.com/watch?v=k65UW0gjsgU).;
+    - [How to get promoted in tech](https://www.youtube.com/watch?v=k65UW0gjsgU);
     - [How to be promoted FAST](https://www.youtube.com/watch?v=kpK1YHq2iUg);
     - [Amazon Principal advice on how to grow people](https://www.youtube.com/watch?v=uUKAVfIahCY);
   * [How to make good code reviews better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/).
@@ -342,6 +342,7 @@ Useful links:
  * [Difference between mentorship and sponsorship](https://chelseatroy.com/2019/04/02/leveling-up-20th-post-corollary-mentors-and-sponsors/).
  * [Maybe getting rid of your QA team was bad, actually](https://davidkcaudill.medium.com/maybe-getting-rid-of-your-qa-team-was-bad-actually-52c408bd048b).
  * [Essential tips on how to set boundaries at work](https://www.youtube.com/watch?v=kXp9HdzJatE).
+ * [How to have impactful one-on-one (1:1) meetings](https://www.youtube.com/watch?v=ADWkkJtZna4).
 
 ## Job Search
   * [Tips on writing good resumes](https://medium.com/hackernoon/on-r%C3%A9sum%C3%A9s-and-applying-to-jobs-4c8cfcc7bf26).
