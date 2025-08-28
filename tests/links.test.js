@@ -23,9 +23,12 @@ const { checkFile } = require('img-link-checker');
             'https://medium.com/dailyjs/the-pitfalls-of-async-await-in-array-loops-cf9cf713bfeb',
             'https://medium.com/dailyjs/how-to-use-npm-link-7375b6219557',
             'https://medium.com/hackernoon/on-r%C3%A9sum%C3%A9s-and-applying-to-jobs-4c8cfcc7bf26',
+            'https://carloarg02.medium.com/how-we-use-hermetic-ephemeral-test-environments-at-google-to-reduce-test-flakiness-a87be42b37aa',
             'https://davidkcaudill.medium.com/maybe-getting-rid-of-your-qa-team-was-bad-actually-52c408bd048b',
             'http://www.qarevolution.com/one-key-metric-should-drive-quality-engineering/',
-            'https://www.welcometothejungle.com/en/articles/job-interviews-how-to-spot-toxic-management'
+            'https://www.welcometothejungle.com/en/articles/job-interviews-how-to-spot-toxic-management',
+            'https://www.sitepoint.com/google-zx-write-node-shell-scripts/',
+            'http://thethinkingtester.blogspot.com/2019/07/one-request-sixteen-assertions.html'
         ]
         /* eslint-enable max-len */
     );

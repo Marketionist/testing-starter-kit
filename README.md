@@ -254,6 +254,9 @@ Useful links:
   Useful links:
   * [A first look at GitHub Actions](https://blog.testdouble.com/posts/2019-11-21-first-look-at-github-actions/).
 
+Useful links:
+* [How we use hermetic, ephemeral test environments at Google to reduce flakiness](https://carloarg02.medium.com/how-we-use-hermetic-ephemeral-test-environments-at-google-to-reduce-test-flakiness-a87be42b37aa).
+
 ## Containerization Tools
 * [Docker](https://hub.docker.com/search/?type=edition&offering=community):  initial release date: **December 21, 2013**, written in: **Go**. Docker is essentially, an isolated environment for your code to run in.
 
@@ -317,7 +320,7 @@ Useful links:
   * [The Death of a Node.js Process](https://thomashunter.name/posts/2021-03-08-the-death-of-a-nodejs-process).
 
 ## Leadership in QA
-Useful links:
+  Useful links:
   * [Leading quality in software organizations](https://lisacrispin.com/2023/10/31/leading-quality-in-agile-software-organizations/).
   * [The impact of your conversation style on your team](https://mysoftwarequality.wordpress.com/2019/07/22/leaders-do-you-understand-the-impact-of-your-conversation-style-on-your-team/).
   * [One key metric should drive quality engineering](http://www.qarevolution.com/one-key-metric-should-drive-quality-engineering/).
@@ -336,13 +339,13 @@ Useful links:
   * [Being successfull as a team glue](https://www.slideshare.net/TanyaReilly/being-glue).
   * [An introvert's guide to being a mentor - with a plan](https://dev.to/geekgalgroks/an-introvert-s-guide-to-being-a-mentor-39nh).
   * [How to mentor someone who doesn’t know what their career goals should be](https://hbr.org/2018/07/how-to-mentor-someone-who-doesnt-know-what-their-career-goals-should-be?autocomplete=true).
- * [How to be a sponsor when you're a developer](https://larahogan.me/blog/how-be-sponsor-when-youre-developer).
- * [Getting mentors](https://chelseatroy.com/2019/03/21/leveling-up-skill-19-getting-mentors/).
- * [Difference between mentorship and sponsorship](https://chelseatroy.com/2019/04/02/leveling-up-20th-post-corollary-mentors-and-sponsors/).
- * [Maybe getting rid of your QA team was bad, actually](https://davidkcaudill.medium.com/maybe-getting-rid-of-your-qa-team-was-bad-actually-52c408bd048b).
- * [Essential tips on how to set boundaries at work](https://www.youtube.com/watch?v=kXp9HdzJatE).
- * [How to have impactful one-on-one (1:1) meetings](https://www.youtube.com/watch?v=ADWkkJtZna4).
- * [Effective 1 on 1 meetings (1:1, 1 to 1, 121 meetings)](https://www.youtube.com/watch?v=rnjjoIz0iEM).
+  * [How to be a sponsor when you're a developer](https://larahogan.me/blog/how-be-sponsor-when-youre-developer).
+  * [Getting mentors](https://chelseatroy.com/2019/03/21/leveling-up-skill-19-getting-mentors/).
+  * [Difference between mentorship and sponsorship](https://chelseatroy.com/2019/04/02/leveling-up-20th-post-corollary-mentors-and-sponsors/).
+  * [Maybe getting rid of your QA team was bad, actually](https://davidkcaudill.medium.com/maybe-getting-rid-of-your-qa-team-was-bad-actually-52c408bd048b).
+  * [Essential tips on how to set boundaries at work](https://www.youtube.com/watch?v=kXp9HdzJatE).
+  * [How to have impactful one-on-one (1:1) meetings](https://www.youtube.com/watch?v=ADWkkJtZna4).
+  * [Effective 1 on 1 meetings (1:1, 1 to 1, 121 meetings)](https://www.youtube.com/watch?v=rnjjoIz0iEM).
 
 ## Job Search
   * [Tips on writing good resumes](https://medium.com/hackernoon/on-r%C3%A9sum%C3%A9s-and-applying-to-jobs-4c8cfcc7bf26).
