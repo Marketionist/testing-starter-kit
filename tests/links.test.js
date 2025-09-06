@@ -28,7 +28,8 @@ const { checkFile } = require('img-link-checker');
             'http://www.qarevolution.com/one-key-metric-should-drive-quality-engineering/',
             'https://www.welcometothejungle.com/en/articles/job-interviews-how-to-spot-toxic-management',
             'https://www.sitepoint.com/google-zx-write-node-shell-scripts/',
-            'http://thethinkingtester.blogspot.com/2019/07/one-request-sixteen-assertions.html'
+            'http://thethinkingtester.blogspot.com/2019/07/one-request-sixteen-assertions.html',
+            'https://socket.dev/blog/contagious-interview-campaign-escalates-67-malicious-npm-packages'
         ]
         /* eslint-enable max-len */
     );
