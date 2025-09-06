@@ -318,6 +318,7 @@ Useful links:
   * [Object.assign vs Object Spread in Node.js](http://thecodebarbarian.com/object-assign-vs-object-spread.html).
   * [How To Write Shell Scripts in Node with Google’s zx Library](https://www.sitepoint.com/google-zx-write-node-shell-scripts/).
   * [The Death of a Node.js Process](https://thomashunter.name/posts/2021-03-08-the-death-of-a-nodejs-process).
+  * [Malicious npm packages investigation](https://socket.dev/blog/contagious-interview-campaign-escalates-67-malicious-npm-packages).
 
 ## Leadership in QA
   Useful links:
