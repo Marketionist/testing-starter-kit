@@ -32,6 +32,7 @@ We love all the free things out there, but it would be good to keep it on topic.
   - cURL
   - Dredd
   - Postman
+  - Insomnia
   - Pactum
 * [Unit Testing](#unit-testing):
   - Mocha
@@ -161,6 +162,8 @@ Useful links:
     * [Part 2: Customizing Execution Order](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-3-5-67e3565dd069).
     * [Part 3: Single collection pattern](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-4-5-ae8aaaac58f7).
     * [Part 4: Easy assertions](https://medium.com/@dmitriev.victor/creating-postman-tests-that-scale-6ac92c514750).
+
+* [Insomnia](https://developer.konghq.com/insomnia/): initial release date: **May 5, 2017**, written in: **JavaScript**. The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 
 * [Dredd](https://dredd.org/en/latest/installation.html): initial release date: **October 25, 2013**, written in: **JavaScript**. Dredd is a language-agnostic command-line tool for validating API description document against backend implementation of the API. Dredd reads your API description and step by step validates whether your API implementation replies with responses as they are described in the documentation.
 
