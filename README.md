@@ -62,6 +62,7 @@ We love all the free things out there, but it would be good to keep it on topic.
   - GitHub Actions
 * [Containerization Tools](#containerization-tools):
   - Docker
+  - Podman
   - Kubernetes
 * [Bug Tracking and Task Management](#bug-tracking-and-task-management):
   - Redmine
@@ -268,6 +269,11 @@ Useful links:
   * [A Better Way to Develop Node.js with Docker](https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093).
   * [Docker 101 workshop - introduction to Docker and basic concepts](https://github.com/gravitational/workshop/blob/master/docker.md).
   * [Top 4 Tactics To Keep Node.js Rockin’ in Docker](https://blog.docker.com/2019/07/keep-nodejs-rockin-in-docker/).
+
+* [Podman](https://podman.io/docs/installation):  initial release date: **April 5, 2018**, written in: **Go**. Podman is a daemonless, open source, Linux native tool designed to make it easy to find, run, build, share and deploy applications using Open Containers Initiative containers and container images. Podman provides a command line interface familiar to anyone who has used the Docker Container Engine. Most users can simply alias Docker to Podman (`alias docker=podman`) without any problems.
+
+  Useful links:
+  * [How to move from Docker to Podman and why](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too)?
 
 * [Kubernetes](https://kubernetes.io/docs/setup/): initial release date: **7 June, 2014**, written in: **Go**. Kubernetes (k8s) is an open-source system for automating deployment, scaling, and management of containerized applications. A container orchestrator like Kubernetes usually does two things:
   - Dynamically schedules container workloads within a cluster of computers. This is often referred to as distributed computing.
