@@ -87,8 +87,8 @@ We love all the free things out there, but it would be good to keep it on topic.
 ## Automated Browser Testing (end-to-end)
 ![Testing pyramid by CircleCI](https://circleci.com/blog/media/Testing_pyramid.jpg "Testing pyramid")
 * [Selenium](https://github.com/SeleniumHQ/selenium): initial release date: **2004**, written in: **Java**. Selenium automates browsers. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Selenium has the support of some of the largest browser vendors who have taken (or are taking) steps to make Selenium a native part of their browser. It is also the core technology in countless other browser automation tools, APIs and frameworks. Selenium has 2 incarnations:
-  * [Selenium IDE](https://www.seleniumhq.org/projects/ide/): is more simple and fast way to create automated testing scripts by clicking and recording your actions with record-and-playback Firefox add-on. It is mostly used to create simple scripts to aid in automation-aided exploratory testing. It requires some knowledge of HTML.
-  * [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver/): is more sophisticated and powerful tool to create robust, browser-based regression automation suites and tests. It requires some knowledge of programming languages - can be used [one of the following](https://github.com/SeleniumHQ/selenium#documentation): Java, JavaScript, Python, Ruby, C#.
+  * [Selenium IDE](https://www.selenium.dev/selenium-ide/): is more simple and fast way to create automated testing scripts by clicking and recording your actions with record-and-playback Firefox add-on. It is mostly used to create simple scripts to aid in automation-aided exploratory testing. It requires some knowledge of HTML.
+  * [Selenium WebDriver](https://www.selenium.dev/documentation/webdriver/): is more sophisticated and powerful tool to create robust, browser-based regression automation suites and tests. It requires some knowledge of programming languages - can be used [one of the following](https://github.com/SeleniumHQ/selenium#documentation): Java, JavaScript, Python, Ruby, C#.
 
 * [RSpec](https://github.com/rspec/rspec-metagem#install): initial release date: **August 2005**, written in: **Ruby**. RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications. It utilizes easy-to-read syntax (`describe`, `it`). Here is a [free, once-weekly e-mail](http://elementalselenium.com/) on how to use Selenium with RSpec (also see the [full archive of useful tips](http://elementalselenium.com/tips)).
 
@@ -178,7 +178,7 @@ Useful links:
 
 * [Jasmine](https://github.com/jasmine/jasmine#installation): initial release date: **September 14, 2010**, written in: **JavaScript**. Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests with easy-to-read syntax (`describe`, `it`). It has built in assertion library and can be used as a testing framework both for unit tests and end-to-end tests.
 
-* [Karma](https://www.npmjs.com/package/karma): initial release date: **March 11, 2012**, written in: **JavaScript**. A simple tool that allows you to execute JavaScript code in multiple real browsers. Karma is not a testing framework, nor an assertion library. Karma just launches an HTTP server, and generates the test runner HTML file you probably already know from your favourite testing framework. So for testing purposes you can use pretty much anything you like. There are already plugins for most of the common testing frameworks: Jasmine, Mocha and [many others](https://www.npmjs.com/search?q=keywords:karma-adapter).
+* [Karma](https://karma-runner.github.io/latest/intro/installation.html): initial release date: **March 11, 2012**, written in: **JavaScript**. A simple tool that allows you to execute JavaScript code in multiple real browsers. Karma is not a testing framework, nor an assertion library. Karma just launches an HTTP server, and generates the test runner HTML file you probably already know from your favourite testing framework. So for testing purposes you can use pretty much anything you like. There are already plugins for most of the common testing frameworks: Jasmine, Mocha and many others.
 
 * [Jest](https://jestjs.io/docs/getting-started): initial release date: **April, 2016**, written in: **JavaScript**. Jest is a delightful JavaScript Testing
 Framework with a focus on simplicity. It was developed by Facebook.
@@ -208,7 +208,7 @@ Useful links:
   Useful links:
   * [Building a Load Test with Tsung for a Login and Post Session with dynamic url-encoded variables](https://www.innoq.com/en/blog/building-a-load-test-with-tsung/).
 
-* [Gatling](https://docs.gatling.io/tutorials/scripting-intro/): initial release date: **January 13, 2012**, written in: **Scala**. Gatling is a highly capable load testing tool designed for ease of use, maintainability and high performance.
+* [Gatling](https://docs.gatling.io/): initial release date: **January 13, 2012**, written in: **Scala**. Gatling is a highly capable load testing tool designed for ease of use, maintainability and high performance.
 
 * [Artillery](https://artillery.io/docs/guides/getting-started/installing-artillery.html): initial release date: **November 17, 2015**, written in: **JavaScript**. Artillery is a modern, powerful, easy-to-use load-testing toolkit. Artillery has a strong focus on developer happiness & ease of use, and a batteries-included philosophy. Our goal is to help developers build faster, more resilient and more scalable applications.
 
@@ -359,6 +359,7 @@ Useful links:
 
 ## Job Search
   * [Tips on writing good resumes](https://medium.com/hackernoon/on-r%C3%A9sum%C3%A9s-and-applying-to-jobs-4c8cfcc7bf26).
+  * [How to prepare stories for a job interview](https://www.youtube.com/watch?v=XUNxprSvwNQ).
   * [How to advance your career by contributing to open source projects](https://opensource.com/article/19/5/how-get-job-doing-open-source).
   * [How to find a tech job in an impossible market](https://www.youtube.com/watch?v=557a30Ss_44).
   * [Job interviews: how to spot toxic management](https://www.welcometothejungle.com/en/articles/job-interviews-how-to-spot-toxic-management).

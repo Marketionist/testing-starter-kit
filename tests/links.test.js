@@ -29,7 +29,8 @@ const { checkFile } = require('img-link-checker');
             'https://www.welcometothejungle.com/en/articles/job-interviews-how-to-spot-toxic-management',
             'https://www.sitepoint.com/google-zx-write-node-shell-scripts/',
             'http://thethinkingtester.blogspot.com/2019/07/one-request-sixteen-assertions.html',
-            'https://socket.dev/blog/contagious-interview-campaign-escalates-67-malicious-npm-packages'
+            'https://socket.dev/blog/contagious-interview-campaign-escalates-67-malicious-npm-packages',
+            'https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too'
         ]
         /* eslint-enable max-len */
     );
