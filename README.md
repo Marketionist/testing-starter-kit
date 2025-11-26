@@ -319,6 +319,7 @@ Useful links:
   * How to access Google Spreadsheets with Node.js: [article 1](https://blog.stephsmith.io/tutorial-google-sheets-api-node-js/), [article 2](https://cmichel.io/how-to-access-google-spreadsheet-with-node/).
   * [A Guide to Node.js logging](https://www.twilio.com/blog/guide-node-js-logging).
   * [Understanding npm link](https://medium.com/dailyjs/how-to-use-npm-link-7375b6219557).
+  * [Mastering npx: A Cheatsheet for npm and Node.js Power Users](https://www.nodejs-security.com/blog/mastering-npx-cheatsheet-npm-nodejs-power-users).
   * [Monorepos and npm](https://blog.npmjs.org/post/186494959890/monorepos-and-npm).
   * [JavaScript modules](https://v8.dev/features/modules).
   * [Types of test unreliability](https://www.youtube.com/watch?v=TKDMya4bznw) - informative 30 min video with code examples by Rich Trott.
