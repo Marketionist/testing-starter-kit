@@ -364,6 +364,7 @@ Useful links:
   * [How to advance your career by contributing to open source projects](https://opensource.com/article/19/5/how-get-job-doing-open-source).
   * [How to find a tech job in an impossible market](https://www.youtube.com/watch?v=557a30Ss_44).
   * [Job interviews: how to spot toxic management](https://www.welcometothejungle.com/en/articles/job-interviews-how-to-spot-toxic-management).
+  * [How to predict layoffs before they happen](https://www.youtube.com/watch?v=a_Cxov-TWJI).
   * [Laid off from Google - 5 harsh lessons](https://www.youtube.com/watch?v=Fxe0FwIhoBA).
   * [A curated list of established remote/distributed/virtual tech companies](https://github.com/yanirs/established-remote).
 
